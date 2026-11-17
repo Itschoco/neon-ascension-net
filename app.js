@@ -1,5 +1,5 @@
-import './music.js';
-import {mountGateMap} from './map.js';
+import './music.js?v=103-final-audio';
+import {mountGateMap} from './map.js?v=103-final-audio';
 const $=s=>document.querySelector(s),main=$('#main'),D={},BASE='https://itschoco.github.io/neon-assets/';
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const url=(type,id)=>`#/${type}/${encodeURIComponent(id)}`,link=(type,id,text)=>`<a href="${url(type,id)}">${esc(text)}</a>`;
