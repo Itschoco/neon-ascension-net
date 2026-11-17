@@ -28,7 +28,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/celestial-spear.png"
   },
   {
     "id": "ORG-002",
@@ -59,7 +60,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/iron-dominion.png"
   },
   {
     "id": "ORG-003",
@@ -90,7 +92,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/elysian-order.png"
   },
   {
     "id": "ORG-004",
@@ -121,7 +124,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/phantom-veil.png"
   },
   {
     "id": "ORG-005",
@@ -152,7 +156,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/free-horizon.png"
   },
   {
     "id": "ORG-006",
@@ -183,7 +188,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/helix-dynamics.png"
   },
   {
     "id": "ORG-007",
@@ -214,7 +220,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/kurogane-systems.png"
   },
   {
     "id": "ORG-008",
@@ -245,7 +252,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/vespera-biotechnologies.png"
   },
   {
     "id": "ORG-009",
@@ -276,7 +284,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/orion-consolidated.png"
   },
   {
     "id": "ORG-010",
@@ -307,7 +316,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/nexus-information-systems.png"
   },
   {
     "id": "ORG-011",
@@ -338,7 +348,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/aegis-international.png"
   },
   {
     "id": "ORG-012",
@@ -369,7 +380,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/black-vector.png"
   },
   {
     "id": "ORG-013",
@@ -400,7 +412,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/meridian-exchange.png"
   },
   {
     "id": "ORG-014",
@@ -431,7 +444,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/ashfall-company.png"
   },
   {
     "id": "ORG-015",
@@ -462,7 +476,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/ghost-signal.png"
   },
   {
     "id": "ORG-016",
@@ -493,7 +508,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/iga.png"
   },
   {
     "id": "ORG-017",
@@ -524,7 +540,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/ghc.png"
   },
   {
     "id": "ORG-018",
@@ -555,7 +572,8 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/uspda.png"
   },
   {
     "id": "ORG-019",
@@ -586,6 +604,7 @@
       }
     ],
     "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
-    "recentNews": []
+    "recentNews": [],
+    "emblem": "assets/emblems/egsd.png"
   }
 ]

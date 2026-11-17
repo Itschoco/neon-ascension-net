@@ -7,7 +7,7 @@ const volume=document.getElementById('music-volume');
 const seek=document.getElementById('music-seek');
 const clock=document.getElementById('music-time');
 let hasStarted=false;
-function removeUnlockListeners(){document.removeEventListener('pointerdown',unlock,true);document.removeEventListener('keydown',unlock,true);}
+function removeUnlockListeners(){document.removeEventListener('click',unlock,true);document.removeEventListener('keydown',unlock,true);}
 function unlock(event){
   if(hasStarted||!event.isTrusted||event.target.closest?.('.music-dock'))return;
   if(event.type==='keydown'&&(event.ctrlKey||event.metaKey||event.altKey||['Shift','Control','Alt','Meta','Escape'].includes(event.key)))return;
@@ -31,6 +31,6 @@ audio.addEventListener('waiting',()=>message('Buffering background music…'));
 audio.addEventListener('error',()=>message('The track could not load. Reload the page to retry.'));
 audio.addEventListener('loadedmetadata',()=>{seek.max=String(Math.floor(audio.duration));clock.textContent=format(audio.currentTime)+' / '+format(audio.duration)+' · LOOP';});
 audio.addEventListener('timeupdate',()=>{seek.value=String(Math.floor(audio.currentTime));clock.textContent=format(audio.currentTime)+' / '+format(audio.duration)+' · LOOP';});
-document.addEventListener('pointerdown',unlock,true);
+document.addEventListener('click',unlock,true);
 document.addEventListener('keydown',unlock,true);
 show(true);start();

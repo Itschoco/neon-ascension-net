@@ -37,3 +37,7 @@ Gate Watch uses self-hosted Leaflet and Leaflet.markercluster (BSD/MIT licenses 
 The user-supplied MP3 is served locally as assets/audio/you-cant-run-from-me.mp3 (3,749,136 bytes, 128 kbps, approximately 3:54). The original supplied file is untouched. Audio requests autoplay on entry, loops, and remains mounted across in-site navigation. The persistent player has Play/Pause, volume and seeking. Browser policy may require one explicit Play click. There is no Spotify SDK, remote music request, account or API key.
 
 When audible autoplay is blocked, the first ordinary click/tap or keypress retries playback automatically. Once playback has started, these listeners are removed so a later manual pause is respected.
+
+## Organisation emblems
+
+All 19 organisations have distinct emblems on directory cards and detail pages. Thirteen reuse the existing approved Route B faction assets. Only Iron Dominion, Free Horizon, Helix Dynamics, Nexus Information Systems, Aegis International and Black Vector received new generated central charges, assembled into the approved seal frame. The approved original files were preserved.
