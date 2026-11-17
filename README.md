@@ -34,4 +34,4 @@ Gate Watch uses self-hosted Leaflet and Leaflet.markercluster (BSD/MIT licenses 
 
 ## Background music
 
-The optional, collapsible Spotify embed plays the user-selected track `098z6VSAmmxyts3ogCGPfr` through Spotify. It loads only when opened, requires the listener to press Play, and stays mounted across in-site route changes. Spotify controls available playback; audio is never downloaded or rehosted.
+The optional, collapsible Spotify embed plays the user-selected track `098z6VSAmmxyts3ogCGPfr` through Spotify. It loads on opening and uses the official Spotify iFrame API to request automatic playback. Browsers or Spotify may require a user click or restrict playback to a preview. A visible Play/Pause button remains available; the player stays mounted across in-site route changes. Spotify controls available playback; audio is never downloaded or rehosted.
