@@ -1,0 +1,92 @@
+{
+  "Seoul": {
+    "lat": 37.568295,
+    "lng": 126.997785,
+    "country": "South Korea",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Tokyo": {
+    "lat": 35.686963,
+    "lng": 139.749462,
+    "country": "Japan",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Lagos": {
+    "lat": 6.445208,
+    "lng": 3.389585,
+    "country": "Nigeria",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Geneva": {
+    "lat": 46.210008,
+    "lng": 6.140028,
+    "country": "Switzerland",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Rotterdam": {
+    "lat": 51.921915,
+    "lng": 4.478028,
+    "country": "Netherlands",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Singapore": {
+    "lat": 1.294979,
+    "lng": 103.853875,
+    "country": "Singapore",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Berlin": {
+    "lat": 52.523764,
+    "lng": 13.399603,
+    "country": "Germany",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Shanghai": {
+    "lat": 31.218398,
+    "lng": 121.434559,
+    "country": "China",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "New York": {
+    "lat": 40.721562,
+    "lng": -73.995718,
+    "country": "United States of America",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Chicago": {
+    "lat": 41.847961,
+    "lng": -87.635237,
+    "country": "United States of America",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Prague": {
+    "lat": 50.086967,
+    "lng": 14.422939,
+    "country": "Czechia",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Busan": {
+    "lat": 35.096999,
+    "lng": 129.008102,
+    "country": "South Korea",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Marseille": {
+    "lat": 43.291925,
+    "lng": 5.373064,
+    "country": "France",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Nairobi": {
+    "lat": -1.281401,
+    "lng": 36.814711,
+    "country": "Kenya",
+    "source": "Natural Earth populated places; approximate city centre"
+  },
+  "Osaka": {
+    "lat": 34.691095,
+    "lng": 135.503754,
+    "country": "Japan",
+    "source": "Natural Earth populated places; approximate city centre"
+  }
+}

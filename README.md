@@ -25,3 +25,9 @@ Enter `/null` in search, or click the interrupted-channel advertisement three ti
 Repository: `Itschoco/neon-ascension-net`. GitHub Pages serves branch `main`, root `/`. No build step or paid service is required.
 
 Inter, JetBrains Mono and Chakra Petch are distributed under the SIL Open Font License; see `assets/ChakraPetch-OFL.txt`. Guild crests are the user's approved Route B assets. No reference-site branding or music is copied.
+
+## Character cards and geographic map
+
+Reader extras include all 20 approved character cards, with no expression gallery. Unverified depictions do not establish public identities; Madame Silk’s image remains unconfirmed.
+
+Gate Watch uses self-hosted Leaflet and Leaflet.markercluster (BSD/MIT licenses in assets/leaflet), plus public-domain Natural Earth country geometry and populated-place coordinates. City markers are approximate centres, not invented precise Gate coordinates. Regional clusters zoom into separate city clusters; city popups link to incident reports. There are no paid map tiles or API keys.

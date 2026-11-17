@@ -1,0 +1,142 @@
+[
+  {
+    "id": "seraphine-vale",
+    "name": "Seraphine Vale",
+    "imageSlug": "SeraphineVale",
+    "kind": "Public Hunter",
+    "route": "hunter/seraphine-vale"
+  },
+  {
+    "id": "yoon-se-ah",
+    "name": "Yoon Se-ah",
+    "imageSlug": "YoonSeah",
+    "kind": "Public Hunter",
+    "route": "hunter/yoon-se-ah"
+  },
+  {
+    "id": "kang-min-jae",
+    "name": "Kang Min-jae",
+    "imageSlug": "KangMinjae",
+    "kind": "Public Hunter",
+    "route": "hunter/kang-min-jae"
+  },
+  {
+    "id": "amara-okafor",
+    "name": "Dr. Amara Okafor",
+    "imageSlug": "DrAmaraOkafor",
+    "kind": "Public Hunter",
+    "route": "hunter/amara-okafor"
+  },
+  {
+    "id": "reina-tsukishiro",
+    "name": "Reina Tsukishiro",
+    "imageSlug": "ReinaTsukishiro",
+    "kind": "Public Hunter",
+    "route": "hunter/reina-tsukishiro"
+  },
+  {
+    "id": "imani-adeyemi",
+    "name": "Imani Adeyemi",
+    "imageSlug": "ImaniAdeyemi",
+    "kind": "Public Hunter",
+    "route": "hunter/imani-adeyemi"
+  },
+  {
+    "id": "seo-yuna",
+    "name": "Dr. Seo Yuna",
+    "imageSlug": "DrSeoYuna",
+    "kind": "Public professional",
+    "route": "person/seo-yuna"
+  },
+  {
+    "id": "evelyn-cross",
+    "name": "Evelyn Cross",
+    "imageSlug": "EvelynCross",
+    "kind": "Public professional",
+    "route": "person/evelyn-cross"
+  },
+  {
+    "id": "akira-kurogane",
+    "name": "Akira Kurogane",
+    "imageSlug": "AkiraKurogane",
+    "kind": "Public professional",
+    "route": "person/akira-kurogane"
+  },
+  {
+    "id": "catherine-brooks",
+    "name": "Catherine Brooks",
+    "imageSlug": "CatherineBrooks",
+    "kind": "Public professional",
+    "route": "person/catherine-brooks"
+  },
+  {
+    "id": "elise-moreau",
+    "name": "Elise Moreau",
+    "imageSlug": "EliseMoreau",
+    "kind": "Public professional",
+    "route": "person/elise-moreau"
+  },
+  {
+    "id": "sofia-rahman",
+    "name": "Sofia Rahman",
+    "imageSlug": "SofiaRahman",
+    "kind": "Public professional",
+    "route": "person/sofia-rahman"
+  },
+  {
+    "id": "nabila-hassan",
+    "name": "Dr. Nabila Hassan",
+    "imageSlug": "DrNabilaHassan",
+    "kind": "Public professional",
+    "route": "person/nabila-hassan"
+  },
+  {
+    "id": "nadia-voss",
+    "name": "Nadia Voss",
+    "imageSlug": "NadiaVoss",
+    "kind": "Public professional",
+    "route": "person/nadia-voss"
+  },
+  {
+    "id": "mara-quill",
+    "name": "Mara Quill",
+    "imageSlug": "MaraQuill",
+    "kind": "Public professional",
+    "route": "person/mara-quill"
+  },
+  {
+    "id": "leila-haddad",
+    "name": "Leila Haddad",
+    "imageSlug": "LeilaHaddad",
+    "kind": "Public professional",
+    "route": "person/leila-haddad"
+  },
+  {
+    "id": "zhao-lian",
+    "name": "Zhao Lian",
+    "imageSlug": "ZhaoLian",
+    "kind": "Unverified depiction",
+    "route": null
+  },
+  {
+    "id": "elias-vorn",
+    "name": "Dr. Elias Vorn",
+    "imageSlug": "DrEliasVorn",
+    "kind": "Unverified depiction",
+    "route": null
+  },
+  {
+    "id": "madame-silk",
+    "name": "Madame Silk",
+    "imageSlug": "MadameSilk",
+    "kind": "Unverified depiction",
+    "route": null
+  },
+  {
+    "id": "hana-park",
+    "name": "Hana Park",
+    "imageSlug": "HanaPark",
+    "kind": "Community member",
+    "route": "user/u1"
+  }
+]
