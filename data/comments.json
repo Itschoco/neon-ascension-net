@@ -1,0 +1,514 @@
+[
+  {
+    "id": "comment-001-1",
+    "articleId": "news-001",
+    "author": "raincheck_rider",
+    "created": "2187-11-17T18:12:00Z",
+    "body": "The eastbound stop sign needs an arrow visible from the noodle kiosks. I walked past the diversion twice.",
+    "likes": 0
+  },
+  {
+    "id": "comment-001-2",
+    "articleId": "news-001",
+    "author": "ledger_and_lunch",
+    "created": "2187-11-17T19:12:00Z",
+    "body": "As a delivery rider: please stop parking at the access lane to check your route. The signed loading point is easier for everyone.",
+    "likes": 13
+  },
+  {
+    "id": "comment-002-1",
+    "articleId": "news-002",
+    "author": "mossy_commute",
+    "created": "2187-11-17T18:13:00Z",
+    "body": "Standby time is work if I cannot accept another booking. Put that in the fee breakdown.",
+    "likes": 7
+  },
+  {
+    "id": "comment-002-2",
+    "articleId": "news-002",
+    "author": "shift_end_tea",
+    "created": "2187-11-17T19:13:00Z",
+    "body": "A blank deduction field worries me more than a low day rate. Ask for an actual number before signing.",
+    "likes": 20
+  },
+  {
+    "id": "comment-003-1",
+    "articleId": "news-003",
+    "author": "quiet_queue",
+    "created": "2187-11-17T18:14:00Z",
+    "body": "My renewal comparison has five columns and somehow still no clear answer about the deductible.",
+    "likes": 14
+  },
+  {
+    "id": "comment-003-2",
+    "articleId": "news-003",
+    "author": "spare_connector",
+    "created": "2187-11-17T19:14:00Z",
+    "body": "Landlord here. A map helps, but I also need the notice to say which policy period the map applies to.",
+    "likes": 27
+  },
+  {
+    "id": "comment-004-1",
+    "articleId": "news-004",
+    "author": "tram_window",
+    "created": "2187-11-16T18:15:00Z",
+    "body": "The appointment checklist is useful. A warning log is a better starting point than fourteen strangers guessing from one image.",
+    "likes": 21
+  },
+  {
+    "id": "comment-004-2",
+    "articleId": "news-004",
+    "author": "c_rank_coffee",
+    "created": "2187-11-16T19:15:00Z",
+    "body": "Repair tech: include the exact time of an intermittent warning. “Sometimes yesterday” makes reproducing it difficult.",
+    "likes": 34
+  },
+  {
+    "id": "comment-005-1",
+    "articleId": "news-005",
+    "author": "raincheck_rider",
+    "created": "2187-11-16T18:16:00Z",
+    "body": "A shelter would help, but please check the route to it with a mobility aid before picking the spot.",
+    "likes": 28
+  },
+  {
+    "id": "comment-005-2",
+    "articleId": "news-005",
+    "author": "ledger_and_lunch",
+    "created": "2187-11-16T19:16:00Z",
+    "body": "Budgeting three departments to purchase one roof is apparently our neighborhood specialty.",
+    "likes": 41
+  },
+  {
+    "id": "comment-006-1",
+    "articleId": "news-006",
+    "author": "mossy_commute",
+    "created": "2187-11-16T18:17:00Z",
+    "body": "A plain explanation of who sees each answer would save our reception desk a lot of calls.",
+    "likes": 35
+  },
+  {
+    "id": "comment-006-2",
+    "articleId": "news-006",
+    "author": "shift_end_tea",
+    "created": "2187-11-16T19:17:00Z",
+    "body": "I want a phone option especially when the device I usually use to book is the device being serviced.",
+    "likes": 0
+  },
+  {
+    "id": "comment-007-1",
+    "articleId": "news-007",
+    "author": "quiet_queue",
+    "created": "2187-11-15T18:18:00Z",
+    "body": "The recovery language matters. A crisis should not become the only story people ever hear about a condition.",
+    "likes": 42
+  },
+  {
+    "id": "comment-007-2",
+    "articleId": "news-007",
+    "author": "spare_connector",
+    "created": "2187-11-15T19:18:00Z",
+    "body": "Please keep this version readable from a normal standing distance. Awareness posters often require excellent eyesight.",
+    "likes": 7
+  },
+  {
+    "id": "comment-008-1",
+    "articleId": "news-008",
+    "author": "tram_window",
+    "created": "2187-11-15T18:19:00Z",
+    "body": "Labeling the replacement line is the kindest thing you can do for the next maintenance shift.",
+    "likes": 1
+  },
+  {
+    "id": "comment-008-2",
+    "articleId": "news-008",
+    "author": "c_rank_coffee",
+    "created": "2187-11-15T19:19:00Z",
+    "body": "The stall lamps staying on probably saved a few dinners. Good small local story.",
+    "likes": 14
+  },
+  {
+    "id": "comment-009-1",
+    "articleId": "news-009",
+    "author": "raincheck_rider",
+    "created": "2187-11-15T18:20:00Z",
+    "body": "I admire the snack queue diagram. I would admire it more if people stopped presenting the imaginary duel date as a real event.",
+    "likes": 8
+  },
+  {
+    "id": "comment-009-2",
+    "articleId": "news-009",
+    "author": "ledger_and_lunch",
+    "created": "2187-11-15T19:20:00Z",
+    "body": "Speculation only: I think a small venue would be fun. That is a wish, not ticket information!",
+    "likes": 21
+  },
+  {
+    "id": "comment-010-1",
+    "articleId": "news-010",
+    "author": "mossy_commute",
+    "created": "2187-11-14T18:21:00Z",
+    "body": "Thank you for putting the individual-versus-Gate distinction in the first paragraph. The rarest animal keeps becoming the headline.",
+    "likes": 15
+  },
+  {
+    "id": "comment-010-2",
+    "articleId": "news-010",
+    "author": "shift_end_tea",
+    "created": "2187-11-14T19:21:00Z",
+    "body": "A timestamp beside the known-fauna list is more useful to me than another dramatic species collage.",
+    "likes": 28
+  },
+  {
+    "id": "comment-011-1",
+    "articleId": "news-011",
+    "author": "quiet_queue",
+    "created": "2187-11-14T18:22:00Z",
+    "body": "Reception work is half matching three spellings of the same name and half explaining which floor people want.",
+    "likes": 22
+  },
+  {
+    "id": "comment-011-2",
+    "articleId": "news-011",
+    "author": "spare_connector",
+    "created": "2187-11-14T19:22:00Z",
+    "body": "New recruit question: can the appointment notice list required documents in one place? I always find a second list later.",
+    "likes": 35
+  },
+  {
+    "id": "comment-012-1",
+    "articleId": "news-012",
+    "author": "tram_window",
+    "created": "2187-11-14T18:23:00Z",
+    "body": "Our procurement spreadsheet starts with downtime now. A machine saves nothing when the only spare is weeks away.",
+    "likes": 29
+  },
+  {
+    "id": "comment-012-2",
+    "articleId": "news-012",
+    "author": "c_rank_coffee",
+    "created": "2187-11-14T19:23:00Z",
+    "body": "Peak output is easy to fit on a billboard. Service intervals apparently require a microscope.",
+    "likes": 42
+  },
+  {
+    "id": "comment-013-1",
+    "articleId": "news-013",
+    "author": "raincheck_rider",
+    "created": "2187-11-13T18:24:00Z",
+    "body": "Exportable histories, yes. A repair record should still exist after someone loses access to an old account.",
+    "likes": 36
+  },
+  {
+    "id": "comment-013-2",
+    "articleId": "news-013",
+    "author": "ledger_and_lunch",
+    "created": "2187-11-13T19:24:00Z",
+    "body": "Please distinguish updating an approved component from installing a different grade. Those are separate appointments.",
+    "likes": 1
+  },
+  {
+    "id": "comment-014-1",
+    "articleId": "news-014",
+    "author": "mossy_commute",
+    "created": "2187-11-13T18:25:00Z",
+    "body": "On my small screen the marker really did look like another rank. Putting the explanation beside it would work.",
+    "likes": 43
+  },
+  {
+    "id": "comment-014-2",
+    "articleId": "news-014",
+    "author": "shift_end_tea",
+    "created": "2187-11-13T19:25:00Z",
+    "body": "Database editor here: a label that needs a separate help page is a label worth revising.",
+    "likes": 8
+  },
+  {
+    "id": "comment-015-1",
+    "articleId": "news-015",
+    "author": "quiet_queue",
+    "created": "2187-11-13T18:26:00Z",
+    "body": "Entrance information should include which entrance is actually staffed. A ramp around the back is not the whole answer.",
+    "likes": 2
+  },
+  {
+    "id": "comment-015-2",
+    "articleId": "news-015",
+    "author": "spare_connector",
+    "created": "2187-11-13T19:26:00Z",
+    "body": "A non-neural check-in route also helps visitors whose usual equipment is temporarily unavailable. This is basic access.",
+    "likes": 15
+  },
+  {
+    "id": "comment-016-1",
+    "articleId": "news-016",
+    "author": "tram_window",
+    "created": "2187-11-12T18:27:00Z",
+    "body": "Shift scheduler here. Predictable appointment windows are easier to cover than an employee having to explain a private problem at the last minute.",
+    "likes": 9
+  },
+  {
+    "id": "comment-016-2",
+    "articleId": "news-016",
+    "author": "c_rank_coffee",
+    "created": "2187-11-12T19:27:00Z",
+    "body": "The distinction between routine maintenance and a diagnosis should be printed on the manager form too.",
+    "likes": 22
+  },
+  {
+    "id": "comment-017-1",
+    "articleId": "news-017",
+    "author": "raincheck_rider",
+    "created": "2187-11-12T18:28:00Z",
+    "body": "Duplicate alerts make riders hesitate right at the turn. Retiring the old notice should be part of issuing the new one.",
+    "likes": 16
+  },
+  {
+    "id": "comment-017-2",
+    "articleId": "news-017",
+    "author": "ledger_and_lunch",
+    "created": "2187-11-12T19:28:00Z",
+    "body": "The cold lunch photograph is the most convincing transport impact assessment I have seen today.",
+    "likes": 29
+  },
+  {
+    "id": "comment-018-1",
+    "articleId": "news-018",
+    "author": "mossy_commute",
+    "created": "2187-11-12T18:29:00Z",
+    "body": "Speaker labels! I watch on a crowded tram and usually cannot tell who is answering the equipment question.",
+    "likes": 23
+  },
+  {
+    "id": "comment-018-2",
+    "articleId": "news-018",
+    "author": "shift_end_tea",
+    "created": "2187-11-12T19:29:00Z",
+    "body": "I stayed for the route explanation. I replayed the missing-marker bit for entirely less educational reasons.",
+    "likes": 36
+  },
+  {
+    "id": "comment-019-1",
+    "articleId": "news-019",
+    "author": "quiet_queue",
+    "created": "2187-11-11T18:30:00Z",
+    "body": "The fully submerged detail needs to stay above the fold. That beautiful image can make people forget what environment it depicts.",
+    "likes": 30
+  },
+  {
+    "id": "comment-019-2",
+    "articleId": "news-019",
+    "author": "spare_connector",
+    "created": "2187-11-11T19:30:00Z",
+    "body": "Peaceful fauna deserves field-guide space too. Not every useful observation is a confrontation.",
+    "likes": 43
+  },
+  {
+    "id": "comment-020-1",
+    "articleId": "news-020",
+    "author": "tram_window",
+    "created": "2187-11-11T18:31:00Z",
+    "body": "A guaranteed minimum is the difference between a workable week and spending two days available for nothing.",
+    "likes": 37
+  },
+  {
+    "id": "comment-020-2",
+    "articleId": "news-020",
+    "author": "c_rank_coffee",
+    "created": "2187-11-11T19:31:00Z",
+    "body": "That invoice template needs a separate line for who authorized the delay. Otherwise the argument just moves to billing.",
+    "likes": 2
+  },
+  {
+    "id": "comment-021-1",
+    "articleId": "news-021",
+    "author": "raincheck_rider",
+    "created": "2187-11-11T18:32:00Z",
+    "body": "Published wording is a fair thing to examine. Please keep the product claim separate from what a banner makes the reader imagine.",
+    "likes": 44
+  },
+  {
+    "id": "comment-021-2",
+    "articleId": "news-021",
+    "author": "ledger_and_lunch",
+    "created": "2187-11-11T19:32:00Z",
+    "body": "I would like an estimated total cost beside the first consultation price. Those are often very different questions.",
+    "likes": 9
+  },
+  {
+    "id": "comment-022-1",
+    "articleId": "news-022",
+    "author": "mossy_commute",
+    "created": "2187-11-10T18:33:00Z",
+    "body": "A cancel button with an actual order status would solve more than another friendly notification.",
+    "likes": 3
+  },
+  {
+    "id": "comment-022-2",
+    "articleId": "news-022",
+    "author": "shift_end_tea",
+    "created": "2187-11-10T19:33:00Z",
+    "body": "The hallway cupboard has declined to comment. It is already storing six months of filters.",
+    "likes": 16
+  },
+  {
+    "id": "comment-023-1",
+    "articleId": "news-023",
+    "author": "quiet_queue",
+    "created": "2187-11-10T18:34:00Z",
+    "body": "Night shift resident here. A timetable early enough to plan sleep matters more than a notice the morning of the drill.",
+    "likes": 10
+  },
+  {
+    "id": "comment-023-2",
+    "articleId": "news-023",
+    "author": "spare_connector",
+    "created": "2187-11-10T19:34:00Z",
+    "body": "A route for complaints is useful only if it names a contact who can answer schedule questions.",
+    "likes": 23
+  },
+  {
+    "id": "comment-024-1",
+    "articleId": "news-024",
+    "author": "tram_window",
+    "created": "2187-11-10T18:35:00Z",
+    "body": "Clinic receptionist: people asking in advance helps, but the answer also needs to be easy to find on the booking page.",
+    "likes": 17
+  },
+  {
+    "id": "comment-024-2",
+    "articleId": "news-024",
+    "author": "c_rank_coffee",
+    "created": "2187-11-10T19:35:00Z",
+    "body": "Please do not put charging cables across the only clear walking route. The socket location is part of accessibility.",
+    "likes": 30
+  },
+  {
+    "id": "comment-025-1",
+    "articleId": "news-025",
+    "author": "raincheck_rider",
+    "created": "2187-11-09T18:36:00Z",
+    "body": "Describe the verified event first. Guessing a clinical stage from a clip adds certainty that the reporter does not have.",
+    "likes": 24
+  },
+  {
+    "id": "comment-025-2",
+    "articleId": "news-025",
+    "author": "ledger_and_lunch",
+    "created": "2187-11-09T19:36:00Z",
+    "body": "I appreciate that this discusses language without using a real patient as an example.",
+    "likes": 37
+  },
+  {
+    "id": "comment-026-1",
+    "articleId": "news-026",
+    "author": "mossy_commute",
+    "created": "2187-11-09T18:37:00Z",
+    "body": "Can you open the table while carrying groceries? This is now my main viewing question.",
+    "likes": 31
+  },
+  {
+    "id": "comment-026-2",
+    "articleId": "news-026",
+    "author": "shift_end_tea",
+    "created": "2187-11-09T19:37:00Z",
+    "body": "820 sounds manageable until fees arrive. Ask for the total recurring monthly figure before falling in love with the folding furniture.",
+    "likes": 44
+  },
+  {
+    "id": "comment-027-1",
+    "articleId": "news-027",
+    "author": "quiet_queue",
+    "created": "2187-11-09T18:38:00Z",
+    "body": "A broken ordering screen absolutely belongs in the queue statistics. My hunger does not distinguish causes.",
+    "likes": 38
+  },
+  {
+    "id": "comment-027-2",
+    "articleId": "news-027",
+    "author": "spare_connector",
+    "created": "2187-11-09T19:38:00Z",
+    "body": "The opening-hours list is excellent. The dumpling category argument should be preserved for future scholars.",
+    "likes": 3
+  },
+  {
+    "id": "comment-028-1",
+    "articleId": "news-028",
+    "author": "tram_window",
+    "created": "2187-11-08T18:39:00Z",
+    "body": "Unknown builders is an interesting answer already. We do not need to turn a library photograph into proof of a universal creator.",
+    "likes": 45
+  },
+  {
+    "id": "comment-028-2",
+    "articleId": "news-028",
+    "author": "c_rank_coffee",
+    "created": "2187-11-08T19:39:00Z",
+    "body": "Please keep the observation/speculation split when this gets shared as a short card. Context disappears fast.",
+    "likes": 10
+  },
+  {
+    "id": "comment-029-1",
+    "articleId": "news-029",
+    "author": "raincheck_rider",
+    "created": "2187-11-08T18:40:00Z",
+    "body": "A clearly marked estimate is better than an exact-looking number nobody checked. Handover sheets need an uncertainty column.",
+    "likes": 4
+  },
+  {
+    "id": "comment-029-2",
+    "articleId": "news-029",
+    "author": "ledger_and_lunch",
+    "created": "2187-11-08T19:40:00Z",
+    "body": "Who receives the handover matters too. Leaving a count sheet on a box is not the same as handing it to the next shift.",
+    "likes": 17
+  },
+  {
+    "id": "comment-030-1",
+    "articleId": "news-030",
+    "author": "mossy_commute",
+    "created": "2187-11-08T18:41:00Z",
+    "body": "We need demonstrations with the ordinary operator and the ordinary setup time. The presentation crew will not be there every morning.",
+    "likes": 11
+  },
+  {
+    "id": "comment-030-2",
+    "articleId": "news-030",
+    "author": "shift_end_tea",
+    "created": "2187-11-08T19:41:00Z",
+    "body": "Accessible controls and replacement-part lead times belong in procurement scoring. Spectacular lighting does not.",
+    "likes": 24
+  },
+  {
+    "id": "comment-031-1",
+    "articleId": "news-031",
+    "author": "quiet_queue",
+    "created": "2187-11-07T18:42:00Z",
+    "body": "Removing access when a contract ends is dull until nobody can find who still has it. Put an owner beside the checklist.",
+    "likes": 18
+  },
+  {
+    "id": "comment-031-2",
+    "articleId": "news-031",
+    "author": "spare_connector",
+    "created": "2187-11-07T19:42:00Z",
+    "body": "The laminated note joke hurts. Durability was not the missing security feature.",
+    "likes": 31
+  },
+  {
+    "id": "comment-032-1",
+    "articleId": "news-032",
+    "author": "tram_window",
+    "created": "2187-11-07T18:43:00Z",
+    "body": "A rest area cannot also be the overflow storage area. That is just storage with a hopeful label.",
+    "likes": 25
+  },
+  {
+    "id": "comment-032-2",
+    "articleId": "news-032",
+    "author": "c_rank_coffee",
+    "created": "2187-11-07T19:43:00Z",
+    "body": "Logistics planner: this is exactly why someone should walk the plan at ground level before approving the vehicle routes.",
+    "likes": 38
+  }
+]

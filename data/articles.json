@@ -1,0 +1,769 @@
+[
+  {
+    "id": "news-001",
+    "title": "A survey pause is not a closure notice",
+    "category": "Gates",
+    "author": "Leila Haddad",
+    "date": "2187-11-17T08:30:00Z",
+    "summary": "A routine instrument check has extended the viewing restrictions around a Seoul Gate service lane. Response vehicles can still reach the perimeter, and surrounding businesses remain open.",
+    "body": [
+      "A routine instrument check has extended the viewing restrictions around a Seoul Gate service lane. Response vehicles can still reach the perimeter, and surrounding businesses remain open.",
+      "For commuters, the practical change is a longer walk to the eastbound stop. Survey teams are comparing their sensor baselines before resuming controlled access; the pause does not establish a new threat classification.",
+      "Shopkeepers have asked delivery riders to use the signed loading point instead of waiting at the cordon. NEONNET will update this local item when the public access notice changes."
+    ],
+    "tags": [
+      "gates",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-010",
+      "news-019",
+      "news-028"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SeoulMidcity_01.png"
+  },
+  {
+    "id": "news-002",
+    "title": "The expensive line in a cheap raid contract",
+    "category": "Hunters",
+    "author": "Jonah Mensah",
+    "date": "2187-11-17T09:30:00Z",
+    "summary": "A small contract can look generous until insurance, transport and equipment recovery are deducted. Independent Hunters comparing offers say the headline payment often conceals who carries the cost of a postponed departure.",
+    "body": [
+      "A small contract can look generous until insurance, transport and equipment recovery are deducted. Independent Hunters comparing offers say the headline payment often conceals who carries the cost of a postponed departure.",
+      "The most disputed clause in a sample contract reviewed by NEONNET charged the crew for standby time after the client changed the access window. The parties have not agreed on a final invoice.",
+      "Recruitment boards are asking posters to state the gross fee, deductions and cancellation terms together. An E-rank badge is a professional classification, not a reason to expect unpaid administrative work."
+    ],
+    "tags": [
+      "hunters",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-011",
+      "news-020",
+      "news-029"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-003",
+    "title": "Orion customers want a readable Gate insurance map",
+    "category": "Corporate",
+    "author": "Mei Tan",
+    "date": "2187-11-17T10:30:00Z",
+    "summary": "Residents comparing apartment renewals are struggling to tell whether a higher premium reflects their building, a local Gate notice or a revised deductible. Customer discussions increasingly focus on the explanation beside the price.",
+    "body": [
+      "Residents comparing apartment renewals are struggling to tell whether a higher premium reflects their building, a local Gate notice or a revised deductible. Customer discussions increasingly focus on the explanation beside the price.",
+      "Orion Consolidated operates in banking and insurance, but a corporate name alone does not explain an individual quote. NEONNET reviewed sample offers rather than confidential customer records and found that the deductible deserved as much attention as the monthly payment.",
+      "A cheaper policy can leave a household with a larger bill after a covered incident. Tenants are requesting clearer maps and plain-language renewal notices, while landlords argue about who should pay for the extra paperwork."
+    ],
+    "tags": [
+      "corporate",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-012",
+      "news-021",
+      "news-030"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-004",
+    "title": "The neural interface question a forum cannot settle",
+    "category": "Tech",
+    "author": "Sana Ribeiro",
+    "date": "2187-11-16T11:30:00Z",
+    "summary": "A diagnostic thread about intermittent neural-interface warnings has attracted excellent questions and several confident guesses. The useful replies ask about the approved service history and exact warning text rather than declaring a diagnosis.",
+    "body": [
+      "A diagnostic thread about intermittent neural-interface warnings has attracted excellent questions and several confident guesses. The useful replies ask about the approved service history and exact warning text rather than declaring a diagnosis.",
+      "Mana-compatible equipment can face interference alongside neural, structural, energy and integration limits. A screenshot cannot establish which limit is involved, and a working device on one person does not prove compatibility with another.",
+      "The thread's practical outcome is a better service appointment checklist: retain the warning log, identify recent authorized changes and bring the maintenance record. Personal clinical details do not need to be posted publicly."
+    ],
+    "tags": [
+      "tech",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-013",
+      "news-022",
+      "news-031"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-005",
+    "title": "Who pays when a cordon moves a bus stop?",
+    "category": "Politics",
+    "author": "Tomas Iversen",
+    "date": "2187-11-16T12:30:00Z",
+    "summary": "A neighborhood budget meeting in Seoul turned a technical Gate access plan into a familiar argument about bus shelter funding. The temporary stop has a sign, but riders say it also needs cover from the rain.",
+    "body": [
+      "A neighborhood budget meeting in Seoul turned a technical Gate access plan into a familiar argument about bus shelter funding. The temporary stop has a sign, but riders say it also needs cover from the rain.",
+      "The response budget covers the secure perimeter. Transit staff and district representatives are still discussing the cost of a shelter outside it, illustrating how a modest safety measure can cross several administrative boundaries.",
+      "Residents asked for a published decision date and an accessible route diagram. None of the proposals changes Hunter licensing or the Gate's classification; the immediate issue is a dry place to wait."
+    ],
+    "tags": [
+      "politics",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-014",
+      "news-023"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-006",
+    "title": "Clinic booking forms get a privacy test",
+    "category": "Health",
+    "author": "Priya Desai",
+    "date": "2187-11-16T13:30:00Z",
+    "summary": "An appointment request should help a clinic prepare, yet patients say some booking forms ask for more cyberware history than the first visit appears to require. The distinction between necessary clinical information and public-facing account data can be difficult to see.",
+    "body": [
+      "An appointment request should help a clinic prepare, yet patients say some booking forms ask for more cyberware history than the first visit appears to require. The distinction between necessary clinical information and public-facing account data can be difficult to see.",
+      "This report uses fictional sample forms and does not disclose anyone's treatment. Medical staff who reviewed the examples favored clear explanations of who can read an answer and whether it is needed before an appointment.",
+      "Patients also wanted an ordinary contact option for people whose interface is being serviced. A clinic portal is convenient only when access to the portal is not a condition of asking for help."
+    ],
+    "tags": [
+      "health",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-015",
+      "news-024"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-007",
+    "title": "A CDS awareness poster makes room for recovery",
+    "category": "CDS",
+    "author": "Noura Saleh",
+    "date": "2187-11-15T14:30:00Z",
+    "summary": "A neighborhood awareness display is replacing the image of the inevitable violent breakdown with a less sensational message: CDS can involve distress and system instability, and violence is not inevitable.",
+    "body": [
+      "A neighborhood awareness display is replacing the image of the inevitable violent breakdown with a less sensational message: CDS can involve distress and system instability, and violence is not inevitable.",
+      "Cybernetic Dissociation Syndrome is a fictional condition in this world, associated with neurological stress, incompatibility and sometimes Mana feedback. Its stages describe changing clinical concerns, not a person's moral character.",
+      "The display emphasizes access to qualified care and rehabilitation while protecting patient privacy. Its organizers want residents to recognize that a dramatic video is not a complete account of someone's life or treatment."
+    ],
+    "tags": [
+      "cds",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-016",
+      "news-025"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-008",
+    "title": "The repair that saved a market's evening lights",
+    "category": "City Life",
+    "author": "Leila Haddad",
+    "date": "2187-11-15T15:30:00Z",
+    "summary": "A small electrical fault interrupted the sign lights above several Lower City Market stalls this week. Hana Park, a local electrical engineer, helped trace the faulty connection during an ordinary maintenance visit.",
+    "body": [
+      "A small electrical fault interrupted the sign lights above several Lower City Market stalls this week. Hana Park, a local electrical engineer, helped trace the faulty connection during an ordinary maintenance visit.",
+      "Park, known on the technical boards as hana_fixes_things, said the useful part was labeling the replacement line so the next shift would not have to start again. Stallholders kept trading under their interior lamps while the work was completed.",
+      "The incident produced no grand unveiling, only a working circuit and several relieved vendors. One noodle seller reserved a bowl for the engineer; the maintenance queue still had other addresses on it."
+    ],
+    "tags": [
+      "city-life",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-017",
+      "news-026",
+      "news-032"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/LowerCityMarket_01.png"
+  },
+  {
+    "id": "news-009",
+    "title": "Yoon duel guesses outrun the actual announcement",
+    "category": "Entertainment",
+    "author": "Jonah Mensah",
+    "date": "2187-11-15T16:30:00Z",
+    "summary": "A fan discussion about Yoon Se-ah's next possible duel has produced brackets, ticket-price guesses and one impressively detailed diagram. There is no confirmed fixture attached to the thread.",
+    "body": [
+      "A fan discussion about Yoon Se-ah's next possible duel has produced brackets, ticket-price guesses and one impressively detailed diagram. There is no confirmed fixture attached to the thread.",
+      "Yoon is an independent S-rank Hunter known publicly for Azure Current, her lightning dual-sword ability. That public record does not validate a fan's claim about an opponent, date or outcome.",
+      "Moderators have moved the speculation tag above the headline and asked sellers to stop advertising imaginary seats. The diagram remains popular, mostly because its author also included an excellent plan for snack queues."
+    ],
+    "tags": [
+      "entertainment",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-018",
+      "news-027"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/neon_ascension/YoonSeah_03.png",
+    "profileSlug": "yoon-se-ah"
+  },
+  {
+    "id": "news-010",
+    "title": "Why a monster grade is not a Gate forecast",
+    "category": "Gates",
+    "author": "Mei Tan",
+    "date": "2187-11-14T08:30:00Z",
+    "summary": "An image of a rare S-grade species can make an ordinary field-guide page look like an emergency bulletin. The species entry describes typical individual danger; it does not establish that such a creature has been observed at the local aperture.",
+    "body": [
+      "An image of a rare S-grade species can make an ordinary field-guide page look like an emergency bulletin. The species entry describes typical individual danger; it does not establish that such a creature has been observed at the local aperture.",
+      "Gate assessment also concerns the connected environment, access conditions and uncertainties. A habitat can contain many organisms without every expedition meeting its rarest megafauna.",
+      "Readers comparing Gate Watch with the bestiary should check the incident's known-fauna list and timestamp. A background image identifies a registered environment type, not a complete live census."
+    ],
+    "tags": [
+      "gates",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-001",
+      "news-019",
+      "news-028"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-011",
+    "title": "A guild lobby runs on more than famous names",
+    "category": "Hunters",
+    "author": "Sana Ribeiro",
+    "date": "2187-11-14T09:30:00Z",
+    "summary": "At a Hunter organization, reception, equipment returns and payroll can generate as many practical questions as the mission board. Celestial Spear's public profile emphasizes elite combat, but visitors still need a clearly marked desk.",
+    "body": [
+      "At a Hunter organization, reception, equipment returns and payroll can generate as many practical questions as the mission board. Celestial Spear's public profile emphasizes elite combat, but visitors still need a clearly marked desk.",
+      "Administrative workers across the profession describe the same recurring problem: contractors arrive with a call sign while their appointment is booked under a legal name. Correcting the mismatch takes time and patience.",
+      "The lesson for new recruits is mundane and useful. Bring the requested credentials, confirm the meeting location and ask which costs are included before treating a recruitment conversation as an offer."
+    ],
+    "tags": [
+      "hunters",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-002",
+      "news-020",
+      "news-029"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/CelestialSpearGuildHall_01.png"
+  },
+  {
+    "id": "news-012",
+    "title": "Helix equipment buyers ask about the maintenance bill",
+    "category": "Corporate",
+    "author": "Tomas Iversen",
+    "date": "2187-11-14T10:30:00Z",
+    "summary": "Mana energy systems can make a compact sales demonstration look effortless. Buyers evaluating infrastructure equipment say the harder comparison begins with service intervals, spare parts and downtime.",
+    "body": [
+      "Mana energy systems can make a compact sales demonstration look effortless. Buyers evaluating infrastructure equipment say the harder comparison begins with service intervals, spare parts and downtime.",
+      "Helix Dynamics specializes in Mana energy and industrial conversion. A product's corporate pedigree does not remove the need for site engineering, trained operators and an intelligible support contract.",
+      "For a small operator, a predictable repair window may matter more than an impressive peak figure. Procurement discussions are shifting toward the entire working life of equipment rather than the brightest number in an advertisement."
+    ],
+    "tags": [
+      "corporate",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-003",
+      "news-021",
+      "news-030"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-013",
+    "title": "The prosthetic repair queue has a software problem",
+    "category": "Tech",
+    "author": "Priya Desai",
+    "date": "2187-11-13T11:30:00Z",
+    "summary": "A Tokyo repair counter can replace a worn fitting quickly and still lose an afternoon finding the correct software record. Technicians say customers often arrive with receipts spread across multiple accounts.",
+    "body": [
+      "A Tokyo repair counter can replace a worn fitting quickly and still lose an afternoon finding the correct software record. Technicians say customers often arrive with receipts spread across multiple accounts.",
+      "Kurogane Systems' field includes cyberware, robotics and advanced prosthetics. Those categories span very different uses, and a consumer maintenance document should not be mistaken for authorization to install a specialist upgrade.",
+      "Repair workers want exportable service histories that remain legible when a device is offline. Customers have a simpler request: one appointment that resolves the problem without three separate password resets."
+    ],
+    "tags": [
+      "tech",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-004",
+      "news-022",
+      "news-031"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-014",
+    "title": "GHC rank labels meet the tiny-screen problem",
+    "category": "Politics",
+    "author": "Noura Saleh",
+    "date": "2187-11-13T12:30:00Z",
+    "summary": "A public-record discussion has exposed how easily a special designation can be misread on a small display. When a gold marker appears above S, some readers assume it names an additional universal rank.",
+    "body": [
+      "A public-record discussion has exposed how easily a special designation can be misread on a small display. When a gold marker appears above S, some readers assume it names an additional universal rank.",
+      "National-Level is a strategic designation for certain extraordinary S-rank Hunters. It does not replace the E-through-S system or create a universally comparable tier above it.",
+      "Interface designers favor placing the explanation beside the marker instead of hiding it in a help panel. That change would make a database easier to read without making new claims about anyone's combat ability."
+    ],
+    "tags": [
+      "politics",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-005",
+      "news-023"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-015",
+    "title": "An accessible clinic entrance includes the booking desk",
+    "category": "Health",
+    "author": "Leila Haddad",
+    "date": "2187-11-13T13:30:00Z",
+    "summary": "Geneva patients reviewing clinic access describe more than door widths and lifts. A receptionist who can offer a non-neural check-in route can make the difference between an easy visit and a missed appointment.",
+    "body": [
+      "Geneva patients reviewing clinic access describe more than door widths and lifts. A receptionist who can offer a non-neural check-in route can make the difference between an easy visit and a missed appointment.",
+      "Medical organizations in the city work across a wide range of abilities and equipment. A person using a temporary mobility aid may need a different route from someone whose sensory interface is awaiting calibration.",
+      "The requests are practical: publish entrance information, keep a staffed contact option and explain how to request assistance. This report concerns access arrangements, not confidential treatment outcomes."
+    ],
+    "tags": [
+      "health",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-006",
+      "news-024"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-016",
+    "title": "Employers debate time off for recalibration",
+    "category": "CDS",
+    "author": "Jonah Mensah",
+    "date": "2187-11-12T14:30:00Z",
+    "summary": "Workers discussing cyberware maintenance say appointment time is often treated as a personal inconvenience even when their job depends on reliable equipment. Scheduling a recalibration can mean surrendering a paid shift.",
+    "body": [
+      "Workers discussing cyberware maintenance say appointment time is often treated as a personal inconvenience even when their job depends on reliable equipment. Scheduling a recalibration can mean surrendering a paid shift.",
+      "CDS awareness groups in the discussion distinguish routine service from diagnosis. Maintenance records do not establish a person's stage or disclose whether they have a condition at all.",
+      "The debate is about predictable leave and confidential administration. Staff want managers to plan coverage without requiring a public explanation of symptoms in the team chat."
+    ],
+    "tags": [
+      "cds",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-007",
+      "news-025"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-017",
+    "title": "Rotterdam's delivery riders want fewer duplicate notices",
+    "category": "City Life",
+    "author": "Mei Tan",
+    "date": "2187-11-12T15:30:00Z",
+    "summary": "A harbor route diversion has generated three different notifications for the same turn. Riders say the repeated alerts are more distracting than the detour itself.",
+    "body": [
+      "A harbor route diversion has generated three different notifications for the same turn. Riders say the repeated alerts are more distracting than the detour itself.",
+      "Rotterdam's logistics and technical services depend on accurate routing, but automated systems do not always retire an old notice when a new one appears. Drivers are comparing screenshots to identify which message remains current.",
+      "Dispatchers have asked workers to follow the signed route while the duplicate notices are checked. The resulting forum thread contains a careful map, several useful corrections and a photograph of somebody's cold lunch."
+    ],
+    "tags": [
+      "city-life",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-008",
+      "news-026",
+      "news-032"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SeoulMidcity_01.png"
+  },
+  {
+    "id": "news-018",
+    "title": "The most watched raid stream had excellent captions",
+    "category": "Entertainment",
+    "author": "Sana Ribeiro",
+    "date": "2187-11-12T16:30:00Z",
+    "summary": "A modest archived training stream is finding a second audience because viewers can follow the equipment discussion without sound. Its captions identify speakers and explain pauses instead of substituting dramatic slogans.",
+    "body": [
+      "A modest archived training stream is finding a second audience because viewers can follow the equipment discussion without sound. Its captions identify speakers and explain pauses instead of substituting dramatic slogans.",
+      "Hunters watching during meal breaks praised the practical detail. Several civilian viewers said it was the first time they understood how much of a session involved checking equipment and discussing a route.",
+      "The channel has no extraordinary new power to reveal. Its appeal is a patient explanation of work, with a few moments of accidental comedy when the presenter cannot find a marker that is visibly attached to their sleeve."
+    ],
+    "tags": [
+      "entertainment",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-009",
+      "news-027"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-019",
+    "title": "Abyssal fieldwork starts with a pressure checklist",
+    "category": "Gates",
+    "author": "Tomas Iversen",
+    "date": "2187-11-11T08:30:00Z",
+    "summary": "The Abyssal Reef entry in the public guide depicts a submerged environment. That fact can disappear beneath spectacular images of coral arches and luminous fauna.",
+    "body": [
+      "The Abyssal Reef entry in the public guide depicts a submerged environment. That fact can disappear beneath spectacular images of coral arches and luminous fauna.",
+      "An underwater survey requires appropriate planning and equipment; a terrestrial route assumption is not a harmless shortcut. Public guide images provide visual context rather than permission or sufficient instructions for entry.",
+      "The same guide identifies Glowfin as peaceful plankton grazers. Respecting a habitat includes avoiding unnecessary disturbance, not assuming every animal in a dangerous environment is an enemy."
+    ],
+    "tags": [
+      "gates",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-001",
+      "news-010",
+      "news-028"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AbyssalReef_01.png"
+  },
+  {
+    "id": "news-020",
+    "title": "Free agents compare the price of waiting",
+    "category": "Hunters",
+    "author": "Priya Desai",
+    "date": "2187-11-11T09:30:00Z",
+    "summary": "Independent Hunters discussing standby contracts have found that two identical day rates can produce different pay. One includes travel and a guaranteed minimum; another starts the clock only after access is approved.",
+    "body": [
+      "Independent Hunters discussing standby contracts have found that two identical day rates can produce different pay. One includes travel and a guaranteed minimum; another starts the clock only after access is approved.",
+      "The discussion fits Free Horizon's public focus on independent Hunter rights and freedom of operation, though no guild endorsement should be inferred from an ordinary forum post.",
+      "Experienced contributors recommend asking who authorizes a delay and where the decision is recorded. The best reply in the thread is a blank invoice template, shared with unusually little argument."
+    ],
+    "tags": [
+      "hunters",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-002",
+      "news-011",
+      "news-029"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-021",
+    "title": "Vespera's polished brochure meets ordinary questions",
+    "category": "Corporate",
+    "author": "Noura Saleh",
+    "date": "2187-11-11T10:30:00Z",
+    "summary": "Readers examining biotechnology advertisements want clearer distinctions between a product description, a proposed benefit and an established clinical claim. Glossy diagrams can make those categories look interchangeable.",
+    "body": [
+      "Readers examining biotechnology advertisements want clearer distinctions between a product description, a proposed benefit and an established clinical claim. Glossy diagrams can make those categories look interchangeable.",
+      "Vespera Biotechnologies operates in biotechnology and Mana medicine under CEO Dr. Seo Yuna. That public corporate role does not make every advertisement a clinical recommendation for every reader.",
+      "This comparison examines published wording rather than private research or patient files. People looking at a treatment need a qualified clinical conversation about suitability, costs and limitations beyond a banner's headline."
+    ],
+    "tags": [
+      "corporate",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-003",
+      "news-012",
+      "news-030"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-022",
+    "title": "The apartment AI keeps ordering filter cartridges",
+    "category": "Tech",
+    "author": "Leila Haddad",
+    "date": "2187-11-10T11:30:00Z",
+    "summary": "A household automation discussion in Singapore began with a resident receiving three filter deliveries in one week. The device was counting a delayed receipt as an unfilled order.",
+    "body": [
+      "A household automation discussion in Singapore began with a resident receiving three filter deliveries in one week. The device was counting a delayed receipt as an unfilled order.",
+      "Nexus Information Systems works in AI and communications infrastructure, but this small incident is not evidence of a failure across its networks. The resident's device and retail subscription involved several ordinary services.",
+      "The practical issue is whether the order history tells users what happened. Forum contributors want duplicate detection and a clear cancel button; one suggested teaching the hallway cupboard to refuse deliveries."
+    ],
+    "tags": [
+      "tech",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-004",
+      "news-013",
+      "news-031"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-023",
+    "title": "Berlin residents ask to see the drill timetable",
+    "category": "Politics",
+    "author": "Jonah Mensah",
+    "date": "2187-11-10T12:30:00Z",
+    "summary": "A proposal for a local response exercise has prompted questions about noise, access and who receives the schedule. Residents support preparation while asking that shift workers receive enough notice to sleep around it.",
+    "body": [
+      "A proposal for a local response exercise has prompted questions about noise, access and who receives the schedule. Residents support preparation while asking that shift workers receive enough notice to sleep around it.",
+      "Berlin's defense and industrial engineering sectors make response technology familiar, but a drill still takes place beside homes and shops. Equipment testing and neighborhood communication are separate jobs.",
+      "The discussion has focused on a published timetable, accessible contact details and a route for complaints. There is no new emergency declaration associated with this routine planning item."
+    ],
+    "tags": [
+      "politics",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-005",
+      "news-014"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-024",
+    "title": "The waiting room needs a charging policy",
+    "category": "Health",
+    "author": "Mei Tan",
+    "date": "2187-11-10T13:30:00Z",
+    "summary": "Patients with powered assistive devices say a clinic's charging socket can become an unexpectedly awkward resource. Not every connector is suitable, and a wall outlet beside a chair does not imply permission to use it.",
+    "body": [
+      "Patients with powered assistive devices say a clinic's charging socket can become an unexpectedly awkward resource. Not every connector is suitable, and a wall outlet beside a chair does not imply permission to use it.",
+      "Staff want clear, device-appropriate arrangements instead of improvised connections across a walkway. The question covers safety, access and appointment delays rather than the clinical status of any patient.",
+      "A posted contact point for assistance would help visitors ask early. Several respondents noted that the same courtesy would improve stations, municipal offices and ordinary workplaces as well."
+    ],
+    "tags": [
+      "health",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-006",
+      "news-015"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-025",
+    "title": "Why sensational headlines make support harder",
+    "category": "CDS",
+    "author": "Sana Ribeiro",
+    "date": "2187-11-09T14:30:00Z",
+    "summary": "A discussion among clinic workers and readers has challenged headlines that use CDS as shorthand for violence. Such wording can discourage people from talking about distress or seeking an assessment.",
+    "body": [
+      "A discussion among clinic workers and readers has challenged headlines that use CDS as shorthand for violence. Such wording can discourage people from talking about distress or seeking an assessment.",
+      "The condition can involve dissociation, system failure and severe instability, but those possibilities are not a prediction about every person affected. Clinical stages cannot be assigned from a public video.",
+      "Responsible coverage can report a safety concern without publishing private health claims. This newsroom's standard is to describe verified events and identify uncertainty, rather than turn an assumption into a diagnosis."
+    ],
+    "tags": [
+      "cds",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-007",
+      "news-016"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-026",
+    "title": "An 820-MCR apartment comes with a very small table",
+    "category": "City Life",
+    "author": "Tomas Iversen",
+    "date": "2187-11-09T15:30:00Z",
+    "summary": "A micro-apartment listing has become a minor housing-board attraction because its dining table folds into a wall panel directly behind the door. Prospective tenants are measuring the clearance with unusual dedication.",
+    "body": [
+      "A micro-apartment listing has become a minor housing-board attraction because its dining table folds into a wall panel directly behind the door. Prospective tenants are measuring the clearance with unusual dedication.",
+      "The advertised 820-MCR monthly rent sits within the broad illustrative range for micro-apartments, though actual costs vary by city and contract. Residents warn that fees and deposits can matter as much as floor area.",
+      "The thread is funny because the problem is familiar: everybody wants somewhere affordable to sit down. Several replies offer sensible viewing questions, including whether the table can open while a coat hangs on the door."
+    ],
+    "tags": [
+      "city-life",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-008",
+      "news-017",
+      "news-032"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SeoulMidcity_01.png"
+  },
+  {
+    "id": "news-027",
+    "title": "Lower City food rankings discover the queue variable",
+    "category": "Entertainment",
+    "author": "Priya Desai",
+    "date": "2187-11-09T16:30:00Z",
+    "summary": "A reader poll comparing late-night noodles has produced a statistical argument about waiting time. One stall's devoted customers insist that twenty minutes in the rain should count as evidence of quality.",
+    "body": [
+      "A reader poll comparing late-night noodles has produced a statistical argument about waiting time. One stall's devoted customers insist that twenty minutes in the rain should count as evidence of quality.",
+      "Others point out that a broken ordering screen can create exactly the same queue. The informal results describe the voters who participated and are not a reliable survey of the entire city.",
+      "The useful part is a shared list of opening hours and accessible entrances. The less useful part is a forty-reply dispute over whether a dumpling sold beside noodles belongs in the noodle category."
+    ],
+    "tags": [
+      "entertainment",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-009",
+      "news-018"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/LowerCityMarket_01.png"
+  },
+  {
+    "id": "news-028",
+    "title": "An archive is evidence of a structure, not an origin story",
+    "category": "Gates",
+    "author": "Noura Saleh",
+    "date": "2187-11-08T08:30:00Z",
+    "summary": "Images of the Eternal Archive invite sweeping explanations about who built it. The public visual record supports a narrower description: an artificial archive environment with galleries, catalog rails and a sealed vault.",
+    "body": [
+      "Images of the Eternal Archive invite sweeping explanations about who built it. The public visual record supports a narrower description: an artificial archive environment with galleries, catalog rails and a sealed vault.",
+      "Its builders remain unknown. Artificial structures inside a connected environment do not establish a single creator of all Gates, and a creature's nickname does not settle that question either.",
+      "Researchers and readers can discuss possibilities while labeling them as speculation. The public field guide keeps observation separate from origin claims, including the possibility of intelligent behavior among archive entities."
+    ],
+    "tags": [
+      "gates",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-001",
+      "news-010",
+      "news-019"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/EternalArchive_01.png"
+  },
+  {
+    "id": "news-029",
+    "title": "Elysian volunteers review the handover sheet",
+    "category": "Hunters",
+    "author": "Leila Haddad",
+    "date": "2187-11-08T09:30:00Z",
+    "summary": "A volunteer logistics discussion has concentrated on an unglamorous part of relief work: making sure the next shift can find supplies. A beautifully arranged storeroom is less useful if nobody records what was moved.",
+    "body": [
+      "A volunteer logistics discussion has concentrated on an unglamorous part of relief work: making sure the next shift can find supplies. A beautifully arranged storeroom is less useful if nobody records what was moved.",
+      "Elysian Order's public work includes healing, humanitarian relief and disaster response under Dr. Amara Okafor. That mission involves support staff as well as licensed Hunters.",
+      "Contributors are comparing legible labels, count sheets and a designated handover contact. The strongest agreement is about recording uncertainty: an estimated box count should remain an estimate until somebody checks it."
+    ],
+    "tags": [
+      "hunters",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-002",
+      "news-011",
+      "news-020"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-030",
+    "title": "Aegis buyers request a less theatrical demonstration",
+    "category": "Corporate",
+    "author": "Jonah Mensah",
+    "date": "2187-11-08T10:30:00Z",
+    "summary": "Security procurement discussions in Berlin are giving more attention to setup time and operator training. A dramatic response demonstration can leave basic questions about storage and routine servicing unanswered.",
+    "body": [
+      "Security procurement discussions in Berlin are giving more attention to setup time and operator training. A dramatic response demonstration can leave basic questions about storage and routine servicing unanswered.",
+      "Aegis International specializes in defense, tactical systems and disaster-response technology. Buyers still have to evaluate a specific system for their site rather than assume all products serve the same need.",
+      "The practical requests are quiet ones: documentation, accessible controls and a clear repair route. A tool that works reliably during a routine inspection earns a different kind of confidence from a spectacular launch presentation."
+    ],
+    "tags": [
+      "corporate",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-003",
+      "news-012",
+      "news-021"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-031",
+    "title": "Ghost Signal's field is full of ordinary password work",
+    "category": "Tech",
+    "author": "Mei Tan",
+    "date": "2187-11-07T11:30:00Z",
+    "summary": "The public image of cybersecurity favors dramatic intrusions, while routine technical discussions are full of account recovery and poorly documented permissions. Rotterdam contributors say the boring tasks deserve attention before a crisis.",
+    "body": [
+      "The public image of cybersecurity favors dramatic intrusions, while routine technical discussions are full of account recovery and poorly documented permissions. Rotterdam contributors say the boring tasks deserve attention before a crisis.",
+      "Ghost Signal is a technical reconnaissance and cybersecurity organization coordinated by Mara Quill. Its public role does not validate anonymous claims about a particular breach or imply access to anyone's private files.",
+      "For small businesses, a current contact list and a clear process for removing old access can prevent expensive confusion. The thread's most popular joke concerns a password note that had been laminated for durability."
+    ],
+    "tags": [
+      "tech",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-004",
+      "news-013",
+      "news-022"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187"
+  },
+  {
+    "id": "news-032",
+    "title": "Lagos recovery crews need a place to eat lunch",
+    "category": "City Life",
+    "author": "Sana Ribeiro",
+    "date": "2187-11-07T12:30:00Z",
+    "summary": "Contractors comparing shift arrangements in Lagos have identified a modest gap in some site plans: a covered rest area that does not double as equipment storage. The issue becomes more obvious when afternoon rain arrives.",
+    "body": [
+      "Contractors comparing shift arrangements in Lagos have identified a modest gap in some site plans: a covered rest area that does not double as equipment storage. The issue becomes more obvious when afternoon rain arrives.",
+      "The city's recovery and logistics sectors rely on crews with different employers and schedules. A shared site can have excellent vehicle access while leaving the people working there nowhere practical to sit.",
+      "Workers are asking that rest space appear on the same checklist as loading bays and sign-in points. It is an ordinary request that says a great deal about whether a plan was reviewed from ground level."
+    ],
+    "tags": [
+      "city-life",
+      "public-record",
+      "2187"
+    ],
+    "related": [
+      "news-008",
+      "news-017",
+      "news-026"
+    ],
+    "source": "NEONNET — fictional in-world reporting, 2187",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SeoulMidcity_01.png"
+  }
+]

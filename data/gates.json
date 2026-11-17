@@ -1,0 +1,1035 @@
+[
+  {
+    "id": "DIE-2187-SEO-0412",
+    "city": "Seoul",
+    "rank": "E",
+    "classifications": [
+      "U"
+    ],
+    "status": "Monitoring",
+    "guild": "Celestial Spear",
+    "environment": "ThornwildForest",
+    "title": "Perimeter survey complete",
+    "summary": "Monitoring continues while the access team checks its instrument baseline. No public entry is authorized.",
+    "fauna": [
+      "Thornrat"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-17T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-17T08:45:00Z",
+        "text": "Perimeter survey complete."
+      },
+      {
+        "time": "2187-11-17T10:10:00Z",
+        "text": "Monitoring continues while the access team checks its instrument baseline. No public entry is authorized."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 10,
+      "y": 12
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/ThornwildForest_01.png"
+  },
+  {
+    "id": "DIE-2187-TYO-0413",
+    "city": "Tokyo",
+    "rank": "D",
+    "classifications": [],
+    "status": "Raid Scheduled",
+    "guild": "Phantom Veil",
+    "environment": "MiregraveSwamp",
+    "title": "Equipment check pending",
+    "summary": "The assigned team is checking protective equipment and route markers before a scheduled survey.",
+    "fauna": [
+      "RotgnatSwarm"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-16T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-16T08:45:00Z",
+        "text": "Equipment check pending."
+      },
+      {
+        "time": "2187-11-16T10:10:00Z",
+        "text": "The assigned team is checking protective equipment and route markers before a scheduled survey."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 29,
+      "y": 25
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/MiregraveSwamp_01.png"
+  },
+  {
+    "id": "DIE-2187-LOS-0414",
+    "city": "Lagos",
+    "rank": "C",
+    "classifications": [
+      "V"
+    ],
+    "status": "Contained",
+    "guild": "Elysian Order",
+    "environment": "StormpeakHighlands",
+    "title": "Survey window reserved",
+    "summary": "A controlled survey is scheduled; the nearby loading lane is reserved for response vehicles.",
+    "fauna": [
+      "Cliffscuttle",
+      "StonefangRaptor"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-15T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-15T08:45:00Z",
+        "text": "Survey window reserved."
+      },
+      {
+        "time": "2187-11-15T10:10:00Z",
+        "text": "A controlled survey is scheduled; the nearby loading lane is reserved for response vehicles."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 48,
+      "y": 38
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/StormpeakHighlands_01.png"
+  },
+  {
+    "id": "DIE-2187-GVA-0415",
+    "city": "Geneva",
+    "rank": "B",
+    "classifications": [],
+    "status": "Monitoring",
+    "guild": "Free Horizon",
+    "environment": "AzureCrystalCavern",
+    "title": "Containment review complete",
+    "summary": "The response crew has completed its containment check. Public access remains subject to local barriers.",
+    "fauna": [
+      "CrystalMite",
+      "RiftBurrower"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-14T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-14T08:45:00Z",
+        "text": "Containment review complete."
+      },
+      {
+        "time": "2187-11-14T10:10:00Z",
+        "text": "The response crew has completed its containment check. Public access remains subject to local barriers."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 67,
+      "y": 51
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AzureCrystalCavern_01.png"
+  },
+  {
+    "id": "DIE-2187-RTM-0416",
+    "city": "Rotterdam",
+    "rank": "A",
+    "classifications": [
+      "X"
+    ],
+    "status": "Contained",
+    "guild": "Iron Dominion",
+    "environment": "FrostveilTundra",
+    "title": "Freight diversion maintained",
+    "summary": "Deliveries use the signed alternate lane while the service entrance remains reserved.",
+    "fauna": [
+      "IcegnawHare",
+      "FrostHornBeast"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-17T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-17T08:45:00Z",
+        "text": "Freight diversion maintained."
+      },
+      {
+        "time": "2187-11-17T10:10:00Z",
+        "text": "Deliveries use the signed alternate lane while the service entrance remains reserved."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 86,
+      "y": 64
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/FrostveilTundra_01.png"
+  },
+  {
+    "id": "DIE-2187-SIN-0417",
+    "city": "Singapore",
+    "rank": "C",
+    "classifications": [
+      "P"
+    ],
+    "status": "Raid Scheduled",
+    "guild": "Celestial Spear",
+    "environment": "AshenCrucible",
+    "title": "Environmental sampling paused",
+    "summary": "Sample collection is paused during an equipment calibration. The perimeter remains in place.",
+    "fauna": [
+      "EmberSkitter",
+      "AshfangLizard"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-16T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-16T08:45:00Z",
+        "text": "Environmental sampling paused."
+      },
+      {
+        "time": "2187-11-16T10:10:00Z",
+        "text": "Sample collection is paused during an equipment calibration. The perimeter remains in place."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 24,
+      "y": 77
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AshenCrucible_01.png"
+  },
+  {
+    "id": "DIE-2187-BER-0418",
+    "city": "Berlin",
+    "rank": "B",
+    "classifications": [],
+    "status": "Monitoring",
+    "guild": "Phantom Veil",
+    "environment": "SunkenTempleRuins",
+    "title": "Access roster under review",
+    "summary": "Credential checks are in progress. A roster listing is not permission to cross the cordon.",
+    "fauna": [
+      "TempleDrone",
+      "RuneboundSentinel"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-15T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-15T08:45:00Z",
+        "text": "Access roster under review."
+      },
+      {
+        "time": "2187-11-15T10:10:00Z",
+        "text": "Credential checks are in progress. A roster listing is not permission to cross the cordon."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 43,
+      "y": 17
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SunkenTempleRuins_01.png"
+  },
+  {
+    "id": "DIE-2187-SHA-0419",
+    "city": "Shanghai",
+    "rank": "S",
+    "classifications": [
+      "U"
+    ],
+    "status": "Monitoring",
+    "guild": "Elysian Order",
+    "environment": "BlackglassAnomaly",
+    "title": "Perimeter survey complete",
+    "summary": "Monitoring continues while the access team checks its instrument baseline. No public entry is authorized.",
+    "fauna": [
+      "GlassTick",
+      "FractureSpawn"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-14T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-14T08:45:00Z",
+        "text": "Perimeter survey complete."
+      },
+      {
+        "time": "2187-11-14T10:10:00Z",
+        "text": "Monitoring continues while the access team checks its instrument baseline. No public entry is authorized."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 62,
+      "y": 30
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/BlackglassAnomaly_01.png"
+  },
+  {
+    "id": "DIE-2187-NYC-0420",
+    "city": "New York",
+    "rank": "A",
+    "classifications": [],
+    "status": "Raid Scheduled",
+    "guild": "Free Horizon",
+    "environment": "EternalArchive",
+    "title": "Equipment check pending",
+    "summary": "The assigned team is checking protective equipment and route markers before a scheduled survey.",
+    "fauna": [
+      "ScriptMoth",
+      "ArchiveWatcher"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-17T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-17T08:45:00Z",
+        "text": "Equipment check pending."
+      },
+      {
+        "time": "2187-11-17T10:10:00Z",
+        "text": "The assigned team is checking protective equipment and route markers before a scheduled survey."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 81,
+      "y": 43
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/EternalArchive_01.png"
+  },
+  {
+    "id": "DIE-2187-CHI-0421",
+    "city": "Chicago",
+    "rank": "D",
+    "classifications": [
+      "V"
+    ],
+    "status": "Contained",
+    "guild": "Iron Dominion",
+    "environment": "FallenMetropolis",
+    "title": "Survey window reserved",
+    "summary": "A controlled survey is scheduled; the nearby loading lane is reserved for response vehicles.",
+    "fauna": [
+      "ScrapHound"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-16T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-16T08:45:00Z",
+        "text": "Survey window reserved."
+      },
+      {
+        "time": "2187-11-16T10:10:00Z",
+        "text": "A controlled survey is scheduled; the nearby loading lane is reserved for response vehicles."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 19,
+      "y": 56
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/FallenMetropolis_01.png"
+  },
+  {
+    "id": "DIE-2187-PRG-0422",
+    "city": "Prague",
+    "rank": "C",
+    "classifications": [],
+    "status": "Monitoring",
+    "guild": "Celestial Spear",
+    "environment": "HollowNecropolis",
+    "title": "Containment review complete",
+    "summary": "The response crew has completed its containment check. Public access remains subject to local barriers.",
+    "fauna": [
+      "GraveWhisper",
+      "BoneLegionnaire"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-15T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-15T08:45:00Z",
+        "text": "Containment review complete."
+      },
+      {
+        "time": "2187-11-15T10:10:00Z",
+        "text": "The response crew has completed its containment check. Public access remains subject to local barriers."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 38,
+      "y": 69
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/HollowNecropolis_01.png"
+  },
+  {
+    "id": "DIE-2187-BUS-0423",
+    "city": "Busan",
+    "rank": "B",
+    "classifications": [
+      "X"
+    ],
+    "status": "Contained",
+    "guild": "Phantom Veil",
+    "environment": "AbyssalReef",
+    "title": "Freight diversion maintained",
+    "summary": "Deliveries use the signed alternate lane while the service entrance remains reserved.",
+    "fauna": [
+      "Glowfin",
+      "RazorfinHunter"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-14T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-14T08:45:00Z",
+        "text": "Freight diversion maintained."
+      },
+      {
+        "time": "2187-11-14T10:10:00Z",
+        "text": "Deliveries use the signed alternate lane while the service entrance remains reserved."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 57,
+      "y": 82
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AbyssalReef_01.png"
+  },
+  {
+    "id": "DIE-2187-MRS-0424",
+    "city": "Marseille",
+    "rank": "A",
+    "classifications": [
+      "P"
+    ],
+    "status": "Raid Scheduled",
+    "guild": "Elysian Order",
+    "environment": "SunscarDesert",
+    "title": "Environmental sampling paused",
+    "summary": "Sample collection is paused during an equipment calibration. The perimeter remains in place.",
+    "fauna": [
+      "SandSkitter",
+      "DuneViper"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-17T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-17T08:45:00Z",
+        "text": "Environmental sampling paused."
+      },
+      {
+        "time": "2187-11-17T10:10:00Z",
+        "text": "Sample collection is paused during an equipment calibration. The perimeter remains in place."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 76,
+      "y": 22
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SunscarDesert_01.png"
+  },
+  {
+    "id": "DIE-2187-NBO-0425",
+    "city": "Nairobi",
+    "rank": "C",
+    "classifications": [],
+    "status": "Monitoring",
+    "guild": "Free Horizon",
+    "environment": "CelestialExpanse",
+    "title": "Access roster under review",
+    "summary": "Credential checks are in progress. A roster listing is not permission to cross the cordon.",
+    "fauna": [
+      "CloudGlider",
+      "WindTalon"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-16T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-16T08:45:00Z",
+        "text": "Access roster under review."
+      },
+      {
+        "time": "2187-11-16T10:10:00Z",
+        "text": "Credential checks are in progress. A roster listing is not permission to cross the cordon."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 14,
+      "y": 35
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/CelestialExpanse_01.png"
+  },
+  {
+    "id": "DIE-2187-OSA-0426",
+    "city": "Osaka",
+    "rank": "D",
+    "classifications": [
+      "U"
+    ],
+    "status": "Monitoring",
+    "guild": "Iron Dominion",
+    "environment": "IronheartDepths",
+    "title": "Perimeter survey complete",
+    "summary": "Monitoring continues while the access team checks its instrument baseline. No public entry is authorized.",
+    "fauna": [
+      "OreCrawler"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-15T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-15T08:45:00Z",
+        "text": "Perimeter survey complete."
+      },
+      {
+        "time": "2187-11-15T10:10:00Z",
+        "text": "Monitoring continues while the access team checks its instrument baseline. No public entry is authorized."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 33,
+      "y": 48
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/IronheartDepths_01.png"
+  },
+  {
+    "id": "DIE-2187-SEO-0427",
+    "city": "Seoul",
+    "rank": "E",
+    "classifications": [],
+    "status": "Raid Scheduled",
+    "guild": "Celestial Spear",
+    "environment": "ThornwildForest",
+    "title": "Equipment check pending",
+    "summary": "The assigned team is checking protective equipment and route markers before a scheduled survey.",
+    "fauna": [
+      "Thornrat"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-14T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-14T08:45:00Z",
+        "text": "Equipment check pending."
+      },
+      {
+        "time": "2187-11-14T10:10:00Z",
+        "text": "The assigned team is checking protective equipment and route markers before a scheduled survey."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 52,
+      "y": 61
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/ThornwildForest_01.png"
+  },
+  {
+    "id": "DIE-2187-TYO-0428",
+    "city": "Tokyo",
+    "rank": "D",
+    "classifications": [
+      "V"
+    ],
+    "status": "Contained",
+    "guild": "Phantom Veil",
+    "environment": "MiregraveSwamp",
+    "title": "Survey window reserved",
+    "summary": "A controlled survey is scheduled; the nearby loading lane is reserved for response vehicles.",
+    "fauna": [
+      "RotgnatSwarm"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-17T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-17T08:45:00Z",
+        "text": "Survey window reserved."
+      },
+      {
+        "time": "2187-11-17T10:10:00Z",
+        "text": "A controlled survey is scheduled; the nearby loading lane is reserved for response vehicles."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 71,
+      "y": 74
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/MiregraveSwamp_01.png"
+  },
+  {
+    "id": "DIE-2187-LOS-0429",
+    "city": "Lagos",
+    "rank": "C",
+    "classifications": [],
+    "status": "Monitoring",
+    "guild": "Elysian Order",
+    "environment": "StormpeakHighlands",
+    "title": "Containment review complete",
+    "summary": "The response crew has completed its containment check. Public access remains subject to local barriers.",
+    "fauna": [
+      "Cliffscuttle",
+      "StonefangRaptor"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-16T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-16T08:45:00Z",
+        "text": "Containment review complete."
+      },
+      {
+        "time": "2187-11-16T10:10:00Z",
+        "text": "The response crew has completed its containment check. Public access remains subject to local barriers."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 90,
+      "y": 14
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/StormpeakHighlands_01.png"
+  },
+  {
+    "id": "DIE-2187-GVA-0430",
+    "city": "Geneva",
+    "rank": "B",
+    "classifications": [
+      "X"
+    ],
+    "status": "Contained",
+    "guild": "Free Horizon",
+    "environment": "AzureCrystalCavern",
+    "title": "Freight diversion maintained",
+    "summary": "Deliveries use the signed alternate lane while the service entrance remains reserved.",
+    "fauna": [
+      "CrystalMite",
+      "RiftBurrower"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-15T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-15T08:45:00Z",
+        "text": "Freight diversion maintained."
+      },
+      {
+        "time": "2187-11-15T10:10:00Z",
+        "text": "Deliveries use the signed alternate lane while the service entrance remains reserved."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 28,
+      "y": 27
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AzureCrystalCavern_01.png"
+  },
+  {
+    "id": "DIE-2187-RTM-0431",
+    "city": "Rotterdam",
+    "rank": "A",
+    "classifications": [
+      "P"
+    ],
+    "status": "Raid Scheduled",
+    "guild": "Iron Dominion",
+    "environment": "FrostveilTundra",
+    "title": "Environmental sampling paused",
+    "summary": "Sample collection is paused during an equipment calibration. The perimeter remains in place.",
+    "fauna": [
+      "IcegnawHare",
+      "FrostHornBeast"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-14T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-14T08:45:00Z",
+        "text": "Environmental sampling paused."
+      },
+      {
+        "time": "2187-11-14T10:10:00Z",
+        "text": "Sample collection is paused during an equipment calibration. The perimeter remains in place."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 47,
+      "y": 40
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/FrostveilTundra_01.png"
+  },
+  {
+    "id": "DIE-2187-SIN-0432",
+    "city": "Singapore",
+    "rank": "C",
+    "classifications": [],
+    "status": "Monitoring",
+    "guild": "Celestial Spear",
+    "environment": "AshenCrucible",
+    "title": "Access roster under review",
+    "summary": "Credential checks are in progress. A roster listing is not permission to cross the cordon.",
+    "fauna": [
+      "EmberSkitter",
+      "AshfangLizard"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-17T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-17T08:45:00Z",
+        "text": "Access roster under review."
+      },
+      {
+        "time": "2187-11-17T10:10:00Z",
+        "text": "Credential checks are in progress. A roster listing is not permission to cross the cordon."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 66,
+      "y": 53
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AshenCrucible_01.png"
+  },
+  {
+    "id": "DIE-2187-BER-0433",
+    "city": "Berlin",
+    "rank": "B",
+    "classifications": [
+      "U"
+    ],
+    "status": "Monitoring",
+    "guild": "Phantom Veil",
+    "environment": "SunkenTempleRuins",
+    "title": "Perimeter survey complete",
+    "summary": "Monitoring continues while the access team checks its instrument baseline. No public entry is authorized.",
+    "fauna": [
+      "TempleDrone",
+      "RuneboundSentinel"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-16T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-16T08:45:00Z",
+        "text": "Perimeter survey complete."
+      },
+      {
+        "time": "2187-11-16T10:10:00Z",
+        "text": "Monitoring continues while the access team checks its instrument baseline. No public entry is authorized."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 85,
+      "y": 66
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SunkenTempleRuins_01.png"
+  },
+  {
+    "id": "DIE-2187-SHA-0434",
+    "city": "Shanghai",
+    "rank": "S",
+    "classifications": [],
+    "status": "Raid Scheduled",
+    "guild": "Elysian Order",
+    "environment": "BlackglassAnomaly",
+    "title": "Equipment check pending",
+    "summary": "The assigned team is checking protective equipment and route markers before a scheduled survey.",
+    "fauna": [
+      "GlassTick",
+      "FractureSpawn"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-15T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-15T08:45:00Z",
+        "text": "Equipment check pending."
+      },
+      {
+        "time": "2187-11-15T10:10:00Z",
+        "text": "The assigned team is checking protective equipment and route markers before a scheduled survey."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 23,
+      "y": 79
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/BlackglassAnomaly_01.png"
+  },
+  {
+    "id": "DIE-2187-NYC-0435",
+    "city": "New York",
+    "rank": "A",
+    "classifications": [
+      "V"
+    ],
+    "status": "Contained",
+    "guild": "Free Horizon",
+    "environment": "EternalArchive",
+    "title": "Localized break contained",
+    "summary": "A localized Gate Break was contained inside the service perimeter. A road inspection continues; no wider evacuation notice is in effect.",
+    "fauna": [
+      "ScriptMoth",
+      "ArchiveWatcher"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-14T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-14T08:45:00Z",
+        "text": "Localized break contained."
+      },
+      {
+        "time": "2187-11-14T10:10:00Z",
+        "text": "A localized Gate Break was contained inside the service perimeter. A road inspection continues; no wider evacuation notice is in effect."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 42,
+      "y": 19
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/EternalArchive_01.png"
+  },
+  {
+    "id": "DIE-2187-CHI-0436",
+    "city": "Chicago",
+    "rank": "D",
+    "classifications": [],
+    "status": "Monitoring",
+    "guild": "Iron Dominion",
+    "environment": "FallenMetropolis",
+    "title": "Containment review complete",
+    "summary": "The response crew has completed its containment check. Public access remains subject to local barriers.",
+    "fauna": [
+      "ScrapHound"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-17T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-17T08:45:00Z",
+        "text": "Containment review complete."
+      },
+      {
+        "time": "2187-11-17T10:10:00Z",
+        "text": "The response crew has completed its containment check. Public access remains subject to local barriers."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 61,
+      "y": 32
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/FallenMetropolis_01.png"
+  },
+  {
+    "id": "DIE-2187-PRG-0437",
+    "city": "Prague",
+    "rank": "C",
+    "classifications": [
+      "X"
+    ],
+    "status": "Contained",
+    "guild": "Celestial Spear",
+    "environment": "HollowNecropolis",
+    "title": "Freight diversion maintained",
+    "summary": "Deliveries use the signed alternate lane while the service entrance remains reserved.",
+    "fauna": [
+      "GraveWhisper",
+      "BoneLegionnaire"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-16T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-16T08:45:00Z",
+        "text": "Freight diversion maintained."
+      },
+      {
+        "time": "2187-11-16T10:10:00Z",
+        "text": "Deliveries use the signed alternate lane while the service entrance remains reserved."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 80,
+      "y": 45
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/HollowNecropolis_01.png"
+  },
+  {
+    "id": "DIE-2187-BUS-0438",
+    "city": "Busan",
+    "rank": "B",
+    "classifications": [
+      "P"
+    ],
+    "status": "Raid Scheduled",
+    "guild": "Phantom Veil",
+    "environment": "AbyssalReef",
+    "title": "Environmental sampling paused",
+    "summary": "Sample collection is paused during an equipment calibration. The perimeter remains in place.",
+    "fauna": [
+      "Glowfin",
+      "RazorfinHunter"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-15T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-15T08:45:00Z",
+        "text": "Environmental sampling paused."
+      },
+      {
+        "time": "2187-11-15T10:10:00Z",
+        "text": "Sample collection is paused during an equipment calibration. The perimeter remains in place."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 18,
+      "y": 58
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AbyssalReef_01.png"
+  },
+  {
+    "id": "DIE-2187-MRS-0439",
+    "city": "Marseille",
+    "rank": "A",
+    "classifications": [],
+    "status": "Monitoring",
+    "guild": "Elysian Order",
+    "environment": "SunscarDesert",
+    "title": "Access roster under review",
+    "summary": "Credential checks are in progress. A roster listing is not permission to cross the cordon.",
+    "fauna": [
+      "SandSkitter",
+      "DuneViper"
+    ],
+    "timeline": [
+      {
+        "time": "2187-11-14T06:20:00Z",
+        "text": "Perimeter check logged; credentialed access only."
+      },
+      {
+        "time": "2187-11-14T08:45:00Z",
+        "text": "Access roster under review."
+      },
+      {
+        "time": "2187-11-14T10:10:00Z",
+        "text": "Credential checks are in progress. A roster listing is not permission to cross the cordon."
+      }
+    ],
+    "safety": "Follow signed local diversions. Keep access lanes clear and use the public viewing boundary. Do not approach or feed dimensional wildlife.",
+    "coordinates": {
+      "x": 37,
+      "y": 71
+    },
+    "source": "Illustrative operational feed — fictional NEONNET public-safety scenario, not a live authority bulletin.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SunscarDesert_01.png"
+  }
+]

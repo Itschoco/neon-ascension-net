@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ad-01",
+    "type": "cyberware",
+    "title": "Grade I — Everyday assistive optics",
+    "organization": "Kurogane Systems",
+    "price": 1800,
+    "currency": "MCR",
+    "period": "illustrative package estimate",
+    "description": "Fictional Grade I cyberware listing. Technological grades are independent of Hunter ranks. Includes an initial suitability review; no promise of eligibility, performance, or clinical outcome. Maintenance and clinician-led calibration are required.",
+    "warnings": [
+      "Neural Load requires individual review.",
+      "Structural Load requires individual review.",
+      "Energy Load requires individual review.",
+      "Integration Load requires individual review.",
+      "Mana Interference requires individual review.",
+      "Not a self-install product.",
+      "All listing numbers are illustrative."
+    ],
+    "city": "Tokyo",
+    "grade": "I"
+  },
+  {
+    "id": "ad-02",
+    "type": "cyberware",
+    "title": "Grade II — Professional prosthetic hand",
+    "organization": "Kurogane Systems",
+    "price": 4600,
+    "currency": "MCR",
+    "period": "illustrative package estimate",
+    "description": "Fictional Grade II cyberware listing. Technological grades are independent of Hunter ranks. Includes an initial suitability review; no promise of eligibility, performance, or clinical outcome. Maintenance and clinician-led calibration are required.",
+    "warnings": [
+      "Neural Load requires individual review.",
+      "Structural Load requires individual review.",
+      "Energy Load requires individual review.",
+      "Integration Load requires individual review.",
+      "Mana Interference requires individual review.",
+      "Not a self-install product.",
+      "All listing numbers are illustrative."
+    ],
+    "city": "Tokyo",
+    "grade": "II"
+  },
+  {
+    "id": "ad-03",
+    "type": "cyberware",
+    "title": "Grade III — Specialist sensory interface",
+    "organization": "Kurogane Systems",
+    "price": 12500,
+    "currency": "MCR",
+    "period": "illustrative package estimate",
+    "description": "Fictional Grade III cyberware listing. Technological grades are independent of Hunter ranks. Includes an initial suitability review; no promise of eligibility, performance, or clinical outcome. Maintenance and clinician-led calibration are required.",
+    "warnings": [
+      "Neural Load requires individual review.",
+      "Structural Load requires individual review.",
+      "Energy Load requires individual review.",
+      "Integration Load requires individual review.",
+      "Mana Interference requires individual review.",
+      "Not a self-install product.",
+      "All listing numbers are illustrative."
+    ],
+    "city": "Berlin",
+    "grade": "III"
+  },
+  {
+    "id": "ad-04",
+    "type": "cyberware",
+    "title": "Grade IV — Elite reinforced mobility platform",
+    "organization": "Kurogane Systems",
+    "price": 48000,
+    "currency": "MCR",
+    "period": "illustrative package estimate",
+    "description": "Fictional Grade IV cyberware listing. Technological grades are independent of Hunter ranks. Includes an initial suitability review; no promise of eligibility, performance, or clinical outcome. Maintenance and clinician-led calibration are required.",
+    "warnings": [
+      "Neural Load requires individual review.",
+      "Structural Load requires individual review.",
+      "Energy Load requires individual review.",
+      "Integration Load requires individual review.",
+      "Mana Interference requires individual review.",
+      "Not a self-install product.",
+      "All listing numbers are illustrative."
+    ],
+    "city": "Berlin",
+    "grade": "IV"
+  },
+  {
+    "id": "ad-05",
+    "type": "cyberware",
+    "title": "Grade V — Experimental integration consultation package",
+    "organization": "Independent Authorized Clinical Network",
+    "price": 98000,
+    "currency": "MCR",
+    "period": "illustrative package estimate",
+    "description": "Fictional Grade V cyberware listing. Technological grades are independent of Hunter ranks. Includes an initial suitability review; no promise of eligibility, performance, or clinical outcome. Maintenance and clinician-led calibration are required.",
+    "warnings": [
+      "Neural Load requires individual review.",
+      "Structural Load requires individual review.",
+      "Energy Load requires individual review.",
+      "Integration Load requires individual review.",
+      "Mana Interference requires individual review.",
+      "Not a self-install product.",
+      "All listing numbers are illustrative."
+    ],
+    "city": "Geneva",
+    "grade": "V"
+  },
+  {
+    "id": "ad-06",
+    "type": "housing",
+    "title": "Windowed micro-apartment, shared laundry",
+    "organization": "Neighborhood Lettings",
+    "price": 680,
+    "currency": "MCR",
+    "period": "month",
+    "description": "A compact home near public transit. Utilities and refundable deposit quoted separately. All listing numbers are illustrative.",
+    "warnings": [
+      "Inspect access and read the full lease before committing.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Rotterdam"
+  },
+  {
+    "id": "ad-07",
+    "type": "housing",
+    "title": "Seoul micro-studio, transit nearby",
+    "organization": "Midcity Homes",
+    "price": 790,
+    "currency": "MCR",
+    "period": "month",
+    "description": "Small private studio with a shared parcel room. No claim of immunity from Gate-related disruption. All listing numbers are illustrative.",
+    "warnings": [
+      "Insurance is quoted separately; review exclusions.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Seoul"
+  },
+  {
+    "id": "ad-08",
+    "type": "housing",
+    "title": "Ordinary two-room apartment",
+    "organization": "Canal Residential",
+    "price": 1450,
+    "currency": "MCR",
+    "period": "month",
+    "description": "Illustrative ordinary apartment listing with lift access and an indoor bicycle space. All listing numbers are illustrative.",
+    "warnings": [
+      "Verify accessibility and all recurring charges in person.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Rotterdam"
+  },
+  {
+    "id": "ad-09",
+    "type": "housing",
+    "title": "Ordinary apartment near a clinic district",
+    "organization": "Lake Neighborhood Lettings",
+    "price": 1880,
+    "currency": "MCR",
+    "period": "month",
+    "description": "One-bedroom ordinary residence. Standard lease, no corporate affiliation needed. All listing numbers are illustrative.",
+    "warnings": [
+      "Deposit and utilities are additional; all figures are illustrative.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Geneva"
+  },
+  {
+    "id": "ad-10",
+    "type": "job",
+    "title": "Electrical engineer, infrastructure maintenance",
+    "organization": "Helix Dynamics",
+    "price": 7200,
+    "currency": "MCR",
+    "period": "month salary",
+    "description": "Engineering role maintaining documented Mana-energy infrastructure. Illustrative salary; duties, benefits, and shifts available in the written offer. All listing numbers are illustrative.",
+    "warnings": [
+      "No live Gate entry is included in this advertised role.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Shanghai"
+  },
+  {
+    "id": "ad-11",
+    "type": "job",
+    "title": "Workshop technician, prosthetics service",
+    "organization": "Kurogane Systems",
+    "price": 4900,
+    "currency": "MCR",
+    "period": "month salary",
+    "description": "Authorized workshop work with a training allowance. Illustrative technician salary, subject to contract. All listing numbers are illustrative.",
+    "warnings": [
+      "Clinical decisions remain with authorized clinicians.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Tokyo"
+  },
+  {
+    "id": "ad-12",
+    "type": "job",
+    "title": "Logistics scheduler, recovery support",
+    "organization": "Ashfall Company",
+    "price": 3600,
+    "currency": "MCR",
+    "period": "month salary",
+    "description": "Civilian scheduling and inventory coordination. Illustrative logistics salary. Work location and exposure boundaries must be agreed in writing. All listing numbers are illustrative.",
+    "warnings": [
+      "Do not infer combat duties from the organization name.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Lagos"
+  },
+  {
+    "id": "ad-13",
+    "type": "job",
+    "title": "Service counter assistant",
+    "organization": "Lower City Market Cooperative",
+    "price": 2200,
+    "currency": "MCR",
+    "period": "month salary",
+    "description": "Illustrative service-worker offer with published shifts and paid break arrangements. All listing numbers are illustrative.",
+    "warnings": [
+      "Request the full employment terms before accepting.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Seoul"
+  },
+  {
+    "id": "ad-14",
+    "type": "equipment",
+    "title": "Labelled hard-case rental",
+    "organization": "Dockside Equipment Cooperative",
+    "price": 95,
+    "currency": "MCR",
+    "period": "week",
+    "description": "Reusable external equipment cases with condition report and named return desk. All listing numbers are illustrative.",
+    "warnings": [
+      "No cyberware or hazardous power cells included.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Rotterdam"
+  },
+  {
+    "id": "ad-15",
+    "type": "clinic",
+    "title": "Cyberware compatibility review appointment",
+    "organization": "Independent Clinical Service",
+    "price": 140,
+    "currency": "MCR",
+    "period": "initial appointment estimate",
+    "description": "A fictional clinician-led assessment and service-record review. Further costs require separate consent and quotation. All listing numbers are illustrative.",
+    "warnings": [
+      "This listing is fictional and provides no real medical advice or diagnosis.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Geneva"
+  },
+  {
+    "id": "ad-16",
+    "type": "awareness",
+    "title": "CDS: support begins with listening",
+    "organization": "Community Health Desk",
+    "price": 0,
+    "currency": "MCR",
+    "period": "public information",
+    "description": "Cybernetic Dissociation Syndrome is a fictional condition. Violence is possible but not inevitable; affected people deserve care and dignity. Stages: 0 Stable, 1 Strained, 2 Unstable, 3 Critical, 4 Cyberpsycho Breakdown. Treatment may involve care, recalibration, surgery, Mana stabilization, and rehabilitation. All listing numbers are illustrative.",
+    "warnings": [
+      "A forum cannot diagnose a person. Seek qualified in-world clinical assessment for fictional symptoms.",
+      "Illustrative fictional listing; availability is simulated."
+    ],
+    "city": "Seoul"
+  }
+]

@@ -1,0 +1,248 @@
+{
+  "year": 2187,
+  "universe": "NEON ASCENSION",
+  "contentNotice": "Fictional public information portal. Illustrative records and local demo actions are labelled.",
+  "history": [
+    {
+      "period": "2041",
+      "title": "First Gate",
+      "summary": "The first confirmed dimensional Gate appears in Seoul, South Korea; other Gates and the first generation of Hunters subsequently appear."
+    },
+    {
+      "period": "2041–2052",
+      "title": "First Contact Era",
+      "summary": "Governments investigate dimensional phenomena, Mana and monster biology amid destructive early Gate disasters."
+    },
+    {
+      "period": "2053–2070",
+      "title": "Hunter Era",
+      "summary": "Hunter licensing, guilds, professional exploration and standardized combat classifications emerge."
+    },
+    {
+      "period": "2071–2096",
+      "title": "Mana Revolution",
+      "summary": "Mana transforms power generation, manufacturing, medicine and specialized materials."
+    },
+    {
+      "period": "2097–2124",
+      "title": "Corporate Ascendancy",
+      "summary": "Megacorporations expand across energy, cybernetics, AI, biotechnology, finance and security."
+    },
+    {
+      "period": "2125–2143",
+      "title": "Corporate Resource Wars",
+      "summary": "Conflicts over Gate resources, technology, corporate interests and regional governments reshape the world."
+    },
+    {
+      "period": "2144–2166",
+      "title": "Meridian Accords",
+      "summary": "International agreements establish new systems for regulating Gates, Hunters and Mana resource trading."
+    },
+    {
+      "period": "2167–2180",
+      "title": "Neon Age",
+      "summary": "Cybernetic augmentation and advanced urban infrastructure become widespread."
+    },
+    {
+      "period": "2181–2187",
+      "title": "Ascension Era",
+      "summary": "Unusual dimensional phenomena and unexplained Gate patterns attract scientific attention. Gate origins remain unknown."
+    }
+  ],
+  "ranks": [
+    {
+      "rank": "E",
+      "description": "Lowest recognized combat tier."
+    },
+    {
+      "rank": "D",
+      "description": "Low-level professional capability."
+    },
+    {
+      "rank": "C",
+      "description": "Competent trained Hunter."
+    },
+    {
+      "rank": "B",
+      "description": "Highly capable professional Hunter."
+    },
+    {
+      "rank": "A",
+      "description": "Elite Hunter."
+    },
+    {
+      "rank": "S",
+      "description": "Extremely rare, exceptional combat power."
+    }
+  ],
+  "nationalDesignation": "National-Level is a strategic designation for certain extraordinary S-Rank Hunters, not a universal rank above S.",
+  "rankRules": [
+    "Rankings consider combat ability, Mana output, control and other relevant factors.",
+    "Rankings may be disputed, outdated or affected by unusual abilities; S-Rank Hunters are not equally powerful.",
+    "Hunters do not gain experience points by killing monsters.",
+    "Training improves technique, judgment, control, efficiency and mastery.",
+    "Second Awakenings are rare and unpredictable."
+  ],
+  "mana": {
+    "description": "Supernatural energy associated with dimensional phenomena.",
+    "core": "The Mana Core Complex is distributed physiological and supernatural organization, not necessarily a physical crystal.",
+    "attributes": {
+      "capacity": "Total reserve.",
+      "output": "Power released at once.",
+      "control": "Precision and efficiency.",
+      "recovery": "Ability to replenish Mana.",
+      "affinity": "Compatibility with particular supernatural phenomena."
+    },
+    "rules": [
+      "These attributes are independent.",
+      "Abilities have limitations, energy costs and vulnerabilities."
+    ]
+  },
+  "cyberware": {
+    "independentOfHunterRank": true,
+    "grades": [
+      {
+        "grade": "I",
+        "description": "Basic enhancements."
+      },
+      {
+        "grade": "II",
+        "description": "Improved consumer and professional technology."
+      },
+      {
+        "grade": "III",
+        "description": "Advanced specialist augmentation."
+      },
+      {
+        "grade": "IV",
+        "description": "High-performance elite and military systems."
+      },
+      {
+        "grade": "V",
+        "description": "Experimental or exceptionally advanced augmentation."
+      }
+    ],
+    "loads": [
+      "Neural Load",
+      "Structural Load",
+      "Energy Load",
+      "Integration Load",
+      "Mana Interference"
+    ],
+    "maintenance": "Maintenance, software updates, medical procedures and calibration are required. Even high-quality systems may be dangerous when incompatible with a user."
+  },
+  "cds": {
+    "name": "Cybernetic Dissociation Syndrome",
+    "fictional": true,
+    "description": "Neurological stress, cybernetic incompatibility, psychological destabilization and sometimes Mana feedback.",
+    "stages": [
+      {
+        "stage": 0,
+        "name": "Stable",
+        "description": "Stable."
+      },
+      {
+        "stage": 1,
+        "name": "Strained",
+        "description": "Headaches, fatigue, irritability."
+      },
+      {
+        "stage": 2,
+        "name": "Unstable",
+        "description": "Dissociation, paranoia, system failures, possible aggression."
+      },
+      {
+        "stage": 3,
+        "name": "Critical",
+        "description": "Significant perceptual disturbances, dangerous feedback, possible violent outbursts."
+      },
+      {
+        "stage": 4,
+        "name": "Cyberpsycho Breakdown",
+        "description": "Acute crisis with potentially uncontrolled cyberware or supernatural abilities."
+      }
+    ],
+    "care": "Treatment may include medical care, cyberware recalibration, surgery, Mana stabilization and rehabilitation.",
+    "awareness": "Violence is possible but not inevitable. Affected people do not inherently become evil or violent."
+  },
+  "gates": {
+    "definition": "Dimensional interfaces connecting Earth to other environments.",
+    "terms": {
+      "CDE": "Connected Dimensional Environment",
+      "DIE": "Dimensional Interface Event",
+      "Gate Break": "Containment failure or dimensional threats entering Earth."
+    },
+    "threatRanks": [
+      "E",
+      "D",
+      "C",
+      "B",
+      "A",
+      "S"
+    ],
+    "additionalClasses": {
+      "U": "Unclassified",
+      "V": "Volatile",
+      "X": "Restricted",
+      "P": "Persistent"
+    },
+    "rules": [
+      "Gate classification is separate from Hunter rank and monster grade.",
+      "Not every Gate has a boss.",
+      "Killing the strongest monster does not automatically close a Gate.",
+      "Mechanisms and dimensional anchors may be unknown; research is ongoing.",
+      "The origin of Gates remains unknown."
+    ]
+  },
+  "ecology": "Dimensional creatures have ecological relationships. Some may have intelligence, culture, language and political systems. Not all species are hostile; classifications may remain uncertain pending research.",
+  "economy": {
+    "currency": "Meridian Credit (MCR)",
+    "localCurrenciesExist": true,
+    "benchmarkNotice": "Indicative MCR-equivalent monthly benchmarks, not universal fixed prices.",
+    "monthlyIncome": {
+      "serviceWorkers": [
+        1600,
+        2800
+      ],
+      "logistics": [
+        2400,
+        4500
+      ],
+      "technicians": [
+        3500,
+        6500
+      ],
+      "engineers": [
+        5000,
+        10000
+      ],
+      "doctors": [
+        6000,
+        13000
+      ],
+      "advancedResearchers": [
+        8000,
+        18000
+      ],
+      "corporateExecutives": "10,000–30,000+ MCR"
+    },
+    "monthlyHousing": {
+      "microApartment": [
+        450,
+        850
+      ],
+      "ordinaryApartment": [
+        1000,
+        2100
+      ],
+      "luxuryResidence": [
+        3500,
+        9000
+      ],
+      "elitePenthouse": "20,000+ MCR"
+    },
+    "hunterIncome": "Varies enormously with contracts, risk, rank, insurance and guild arrangements."
+  },
+  "governance": "International cooperation coexists with independent national authorities, police, military units and laws. There is no single global government.",
+  "publicRecordPolicy": "Official public records, professional press profiles, fan views and unverified rumors are distinct. No confidential medical information, hidden motives or private secrets are established here."
+}

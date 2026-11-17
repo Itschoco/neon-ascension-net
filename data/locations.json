@@ -1,0 +1,182 @@
+[
+  {
+    "id": "seoul-midcity",
+    "name": "SeoulMidcity",
+    "title": "Seoul Midcity",
+    "type": "Earth",
+    "description": "Street-level perspective down a dense pedestrian boulevard framed by stacked apartments, noodle kiosks, glass retail units, overhead walkways, and a curving automated tram viaduct; readable Korean holographic signage and practical service conduits.",
+    "palette": "Rainy blue-hour, wet pavement reflections, cyan/rose/amber neon; bustling but believable lived-in future.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SeoulMidcity_01.png"
+  },
+  {
+    "id": "celestial-spear-guild-hall",
+    "name": "CelestialSpearGuildHall",
+    "title": "Celestial Spear Guild Hall",
+    "type": "Earth",
+    "description": "Double-height prestigious lobby in black basalt, brushed steel, and electric-blue glass; stylized spear insignia, reception station, display cases for retired raid equipment, training wing behind glass, floating mission boards.",
+    "palette": "Clean cool daylight with cobalt edge lighting and discreet warm hospitality lights.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/CelestialSpearGuildHall_01.png"
+  },
+  {
+    "id": "gate-research-facility",
+    "name": "GateResearchFacility",
+    "title": "Gate Research Facility",
+    "type": "Earth",
+    "description": "Shielded observation chamber looking through layered blast-resistant windows into a circular, restrained dimensional aperture; scanning gantries, modular computers, sensor rails, emergency shutters, warning stripes.",
+    "palette": "Sterile white/cold cyan light, restrained violet Gate glow, convincing industrial safety design.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/GateResearchFacility_01.png"
+  },
+  {
+    "id": "lower-city-market",
+    "name": "LowerCityMarket",
+    "title": "Lower City Market",
+    "type": "Earth",
+    "description": "Narrow covered alley with weathered concrete, improvised shop counters, prosthetic repair signs, steaming food carts, overhead electrical cabling and stacked housing; legal stalls intermixed with ambiguous brokers.",
+    "palette": "Night, saturated magenta/red signage, amber shop lamps, pooled rainwater and mist.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/LowerCityMarket_01.png"
+  },
+  {
+    "id": "corporate-tower",
+    "name": "CorporateTower",
+    "title": "Corporate Tower",
+    "type": "Earth",
+    "description": "Expansive upper-floor boardroom with long modular dark-glass table, privacy glass, a city-wide panoramic window, restrained holographic financial interfaces, architectural security doors.",
+    "palette": "Midnight blue skyline, soft gold accent lights, polished black/graphite surfaces.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/CorporateTower_01.png"
+  },
+  {
+    "id": "thornwild-forest",
+    "name": "ThornwildForest",
+    "title": "Thornwild Forest",
+    "type": "Gate biome",
+    "description": "Immense root-buttressed trees, oversized fern canopy, mossed stone steps from a forgotten path, luminous vines and crystal-lichen on fallen logs; several layers of canopy receding toward a barely seen ruin.",
+    "palette": "Emerald/teal green and cool turquoise bioluminescence; morning fog and drifting spores.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/ThornwildForest_01.png"
+  },
+  {
+    "id": "miregrave-swamp",
+    "name": "MiregraveSwamp",
+    "title": "Miregrave Swamp",
+    "type": "Gate biome",
+    "description": "Black shallow water, collapsed timber causeway, twisted leafless cypress trunks, giant bracket fungi, bubbles in stagnant pools, hanging moss and spore towers.",
+    "palette": "Sickly olive, acid chartreuse, muted brown, ominous low green fog.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/MiregraveSwamp_01.png"
+  },
+  {
+    "id": "stormpeak-highlands",
+    "name": "StormpeakHighlands",
+    "title": "Stormpeak Highlands",
+    "type": "Gate biome",
+    "description": "Knife-edged basalt cliffs, narrow stone ledges, shattered alpine pillars, distant peak archipelago and wind-raked scrub; a circling weather front above a ravine.",
+    "palette": "Steel gray, indigo, electric-white lightning; dramatic overcast daylight.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/StormpeakHighlands_01.png"
+  },
+  {
+    "id": "azure-crystal-cavern",
+    "name": "AzureCrystalCavern",
+    "title": "Azure Crystal Cavern",
+    "type": "Gate biome",
+    "description": "Colossal cavern with ribbed limestone, clusters of towering faceted blue-violet crystals, broken mining terraces, reflective black pool, branching tunnels and suspended crystal shards.",
+    "palette": "Azure, amethyst, soft white internal crystal light, deep dark recesses.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AzureCrystalCavern_01.png"
+  },
+  {
+    "id": "frostveil-tundra",
+    "name": "FrostveilTundra",
+    "title": "Frostveil Tundra",
+    "type": "Gate biome",
+    "description": "Expansive wind-scoured blue ice plain, jagged frozen shelves, buried stone structures, distant glacier wall and sparse frost-coated shrubs; swirling snow corridors.",
+    "palette": "Pale ice blue, pearl white, subdued lavender shadows, dim arctic sky.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/FrostveilTundra_01.png"
+  },
+  {
+    "id": "ashen-crucible",
+    "name": "AshenCrucible",
+    "title": "Ashen Crucible",
+    "type": "Gate biome",
+    "description": "Terraced obsidian plateau split by thick lava rivers, basalt bridge, fumaroles, ash-coated spires, distant crater wall and heat-shimmering rocky badlands.",
+    "palette": "Coal black, molten orange, crimson reflections, smoldering red haze.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AshenCrucible_01.png"
+  },
+  {
+    "id": "sunken-temple-ruins",
+    "name": "SunkenTempleRuins",
+    "title": "Sunken Temple Ruins",
+    "type": "Gate biome",
+    "description": "Partially flooded pillared sanctuary, collapsed vaulted roof, engraved stone floor beneath shallow dark water, mossy statues, mysterious sealed door at the far end.",
+    "palette": "Muted jade, weathered sandstone, watery cyan reflections and shafts of filtered daylight.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SunkenTempleRuins_01.png"
+  },
+  {
+    "id": "blackglass-anomaly",
+    "name": "BlackglassAnomaly",
+    "title": "Blackglass Anomaly",
+    "type": "Gate biome",
+    "description": "Vast plain of glossy fractured black glass plates floating at uneven angles, disconnected doorframes, suspended shards, duplicated horizon lines and distant spatial seams.",
+    "palette": "Violet-black, oil-slick indigo, white cracks and sparse magenta distortions.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/BlackglassAnomaly_01.png"
+  },
+  {
+    "id": "eternal-archive",
+    "name": "EternalArchive",
+    "title": "Eternal Archive",
+    "type": "Gate biome",
+    "description": "Impossible multi-tiered library carved in pale stone, suspended circular book galleries, ancient automated catalog rails, floating rune tablets and one towering sealed central vault.",
+    "palette": "Ivory, warm brass, cobalt arcane glyphs; dramatic volumetric library light.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/EternalArchive_01.png"
+  },
+  {
+    "id": "fallen-metropolis",
+    "name": "FallenMetropolis",
+    "title": "Fallen Metropolis",
+    "type": "Gate biome",
+    "description": "Silent boulevard between collapsed high-rise carcasses of unknown architecture, overgrown elevated transit, cracked pavement, sand-drifted vehicles of unfamiliar manufacture, rusted signal towers.",
+    "palette": "Muted concrete gray and oxidized copper, moss green, overcast dusty light.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/FallenMetropolis_01.png"
+  },
+  {
+    "id": "hollow-necropolis",
+    "name": "HollowNecropolis",
+    "title": "Hollow Necropolis",
+    "type": "Gate biome",
+    "description": "Black-stone mausoleum complex, terraced tombs, skeletal trees, cracked monuments, sinking crypt stairways, distant bell tower under looming arches.",
+    "palette": "Moon-silver, charcoal, cold cyan spirit lights and thin lavender haze.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/HollowNecropolis_01.png"
+  },
+  {
+    "id": "abyssal-reef",
+    "name": "AbyssalReef",
+    "title": "Abyssal Reef",
+    "type": "Gate biome",
+    "description": "Deep submerged coral valley with colossal shell-like formations, coral arches, luminous anemones, silt floor, ancient tiled fragments and steep trench descending to darkness.",
+    "palette": "Bioluminescent cyan, sea green, ultramarine and purple; filtered shafts from distant surface.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/AbyssalReef_01.png"
+  },
+  {
+    "id": "sunscar-desert",
+    "name": "SunscarDesert",
+    "title": "Sunscar Desert",
+    "type": "Gate biome",
+    "description": "Sun-baked ochre dunes and wind-shaped sandstone fins, half-buried stairway, crumbled astronomical observatory, rippling heat haze and old caravan markers.",
+    "palette": "Copper gold, pale ochre, turquoise shadow, bright white midday sun.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/SunscarDesert_01.png"
+  },
+  {
+    "id": "celestial-expanse",
+    "name": "CelestialExpanse",
+    "title": "Celestial Expanse",
+    "type": "Gate biome",
+    "description": "Layered floating islands connected by broken causeways, hanging waterfalls vanishing into cloud oceans, wind-bent grass, ruined circular observatory and distant towering sky spires.",
+    "palette": "Sky blue, pearly white, muted gold and luminous cloud violet at sunrise.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/CelestialExpanse_01.png"
+  },
+  {
+    "id": "ironheart-depths",
+    "name": "IronheartDepths",
+    "title": "Ironheart Depths",
+    "type": "Gate biome",
+    "description": "Massive subterranean forge city of unknown origin with chain-supported gantries, huge inactive smelting furnaces, metal bridges over dim geothermal channels, slag heaps and gearlike stone machinery.",
+    "palette": "Burnished copper, ember red, iron gray, occasional cyan runic indicator light.",
+    "image": "https://itschoco.github.io/neon-assets/backgrounds/IronheartDepths_01.png"
+  }
+]

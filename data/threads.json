@@ -1,0 +1,784 @@
+[
+  {
+    "id": "thread-001",
+    "title": "Insurance jumped because of the monitored Gate two blocks away",
+    "board": "Housing & Money",
+    "author": "u27",
+    "created": "2187-11-12T07:10:00Z",
+    "tags": [
+      "budget",
+      "housing"
+    ],
+    "views": 280,
+    "pinned": false
+  },
+  {
+    "id": "thread-002",
+    "title": "Mana-compatible neural interface: calibration log or fault diagnosis?",
+    "board": "Cyberware & Clinics",
+    "author": "u1",
+    "created": "2187-11-12T08:29:00Z",
+    "tags": [
+      "cyberware",
+      "care"
+    ],
+    "views": 393,
+    "pinned": false
+  },
+  {
+    "id": "thread-003",
+    "title": "Contract says exit transport is optional. Walking away?",
+    "board": "Raid Recruitment",
+    "author": "u4",
+    "created": "2187-11-12T09:48:00Z",
+    "tags": [
+      "work",
+      "contracts"
+    ],
+    "views": 506,
+    "pinned": true
+  },
+  {
+    "id": "thread-004",
+    "title": "SPECULATION: who might Yoon Se-ah duel next?",
+    "board": "Hunter Talk",
+    "author": "u7",
+    "created": "2187-11-12T11:07:00Z",
+    "tags": [
+      "hunters",
+      "discussion",
+      "speculation"
+    ],
+    "views": 619,
+    "pinned": false,
+    "poll": {
+      "question": "What kind of public exhibition would you prefer? Purely hypothetical.",
+      "options": [
+        "Technical demonstration",
+        "Arena spectacle",
+        "No preference"
+      ],
+      "votes": [
+        162,
+        87,
+        54
+      ]
+    }
+  },
+  {
+    "id": "thread-005",
+    "title": "Seoul Line 9 drone delays: which exit has the working lift?",
+    "board": "City Life",
+    "author": "u3",
+    "created": "2187-11-12T12:26:00Z",
+    "tags": [
+      "daily-life"
+    ],
+    "views": 732,
+    "pinned": false
+  },
+  {
+    "id": "thread-006",
+    "title": "Why does more Mana capacity not mean more output?",
+    "board": "Mana Tech",
+    "author": "u28",
+    "created": "2187-11-12T13:45:00Z",
+    "tags": [
+      "technology",
+      "questions"
+    ],
+    "views": 845,
+    "pinned": false
+  },
+  {
+    "id": "thread-007",
+    "title": "My fridge has a more reliable recovery cycle than I do",
+    "board": "Memes",
+    "author": "u24",
+    "created": "2187-11-12T15:04:00Z",
+    "tags": [
+      "humor"
+    ],
+    "views": 958,
+    "pinned": false
+  },
+  {
+    "id": "thread-008",
+    "title": "Can I hide duel speculation without muting Hunter Talk?",
+    "board": "Help Desk",
+    "author": "u21",
+    "created": "2187-11-12T16:23:00Z",
+    "tags": [
+      "site-help"
+    ],
+    "views": 1071,
+    "pinned": false
+  },
+  {
+    "id": "thread-009",
+    "title": "Is 680 MCR fair for a micro-apartment with shared laundry?",
+    "board": "Housing & Money",
+    "author": "u24",
+    "created": "2187-11-12T17:42:00Z",
+    "tags": [
+      "budget",
+      "housing"
+    ],
+    "views": 1184,
+    "pinned": false
+  },
+  {
+    "id": "thread-010",
+    "title": "Grade II hand: whose maintenance subscription survived a job change?",
+    "board": "Cyberware & Clinics",
+    "author": "u11",
+    "created": "2187-11-12T19:01:00Z",
+    "tags": [
+      "cyberware",
+      "care"
+    ],
+    "views": 1297,
+    "pinned": false
+  },
+  {
+    "id": "thread-011",
+    "title": "D-rank support seeks weekend training group, no live Gate entry",
+    "board": "Raid Recruitment",
+    "author": "u25",
+    "created": "2187-11-12T20:20:00Z",
+    "tags": [
+      "work",
+      "contracts"
+    ],
+    "views": 1410,
+    "pinned": false
+  },
+  {
+    "id": "thread-012",
+    "title": "Do you keep a separate invoice for consumables?",
+    "board": "Hunter Talk",
+    "author": "u4",
+    "created": "2187-11-12T21:39:00Z",
+    "tags": [
+      "hunters",
+      "discussion"
+    ],
+    "views": 1523,
+    "pinned": false
+  },
+  {
+    "id": "thread-013",
+    "title": "Lagos lunch under 12 MCR near the logistics district?",
+    "board": "City Life",
+    "author": "u9",
+    "created": "2187-11-12T22:58:00Z",
+    "tags": [
+      "daily-life"
+    ],
+    "views": 1636,
+    "pinned": false
+  },
+  {
+    "id": "thread-014",
+    "title": "Campus sensor calls every kettle a Mana anomaly",
+    "board": "Mana Tech",
+    "author": "u19",
+    "created": "2187-11-13T00:17:00Z",
+    "tags": [
+      "technology",
+      "questions"
+    ],
+    "views": 1749,
+    "pinned": false
+  },
+  {
+    "id": "thread-015",
+    "title": "Who should pay for accessible temporary evacuation transport?",
+    "board": "Politics",
+    "author": "u21",
+    "created": "2187-11-13T01:36:00Z",
+    "tags": [
+      "public-policy"
+    ],
+    "views": 1862,
+    "pinned": false,
+    "poll": {
+      "question": "Which consultation question should lead?",
+      "options": [
+        "Accessible dispatch",
+        "Capacity verification",
+        "Communication access"
+      ],
+      "votes": [
+        91,
+        64,
+        83
+      ]
+    }
+  },
+  {
+    "id": "thread-016",
+    "title": "Corporate coffee machine now requires a guild affiliation",
+    "board": "Memes",
+    "author": "u22",
+    "created": "2187-11-13T02:55:00Z",
+    "tags": [
+      "humor"
+    ],
+    "views": 1975,
+    "pinned": false
+  },
+  {
+    "id": "thread-017",
+    "title": "Where do local bookmarks go after clearing browser storage?",
+    "board": "Help Desk",
+    "author": "u20",
+    "created": "2187-11-13T04:14:00Z",
+    "tags": [
+      "site-help"
+    ],
+    "views": 2088,
+    "pinned": false
+  },
+  {
+    "id": "thread-018",
+    "title": "Ordinary apartment at 1,450 MCR: split or keep the short commute?",
+    "board": "Housing & Money",
+    "author": "u6",
+    "created": "2187-11-13T05:33:00Z",
+    "tags": [
+      "budget",
+      "housing"
+    ],
+    "views": 2201,
+    "pinned": false
+  },
+  {
+    "id": "thread-019",
+    "title": "Can we stop using CDS as an insult?",
+    "board": "Cyberware & Clinics",
+    "author": "u5",
+    "created": "2187-11-13T06:52:00Z",
+    "tags": [
+      "cyberware",
+      "care"
+    ],
+    "views": 2314,
+    "pinned": true
+  },
+  {
+    "id": "thread-020",
+    "title": "Noncombat logistics work for a licensed raid team?",
+    "board": "Raid Recruitment",
+    "author": "u9",
+    "created": "2187-11-13T08:11:00Z",
+    "tags": [
+      "work",
+      "contracts"
+    ],
+    "views": 2427,
+    "pinned": false
+  },
+  {
+    "id": "thread-021",
+    "title": "What does National-Level actually add to S-rank?",
+    "board": "Hunter Talk",
+    "author": "u17",
+    "created": "2187-11-13T09:30:00Z",
+    "tags": [
+      "hunters",
+      "discussion"
+    ],
+    "views": 2540,
+    "pinned": false
+  },
+  {
+    "id": "thread-022",
+    "title": "Tokyo repair cafe: bring broken lamps, leave with labelled screws",
+    "board": "City Life",
+    "author": "u23",
+    "created": "2187-11-13T10:49:00Z",
+    "tags": [
+      "daily-life"
+    ],
+    "views": 2653,
+    "pinned": false
+  },
+  {
+    "id": "thread-023",
+    "title": "Kettle billing: energy use versus subscription fee",
+    "board": "Mana Tech",
+    "author": "u1",
+    "created": "2187-11-13T12:08:00Z",
+    "tags": [
+      "technology",
+      "questions"
+    ],
+    "views": 2766,
+    "pinned": false
+  },
+  {
+    "id": "thread-024",
+    "title": "Public Gate notices need plain language beside DIE codes",
+    "board": "Politics",
+    "author": "u28",
+    "created": "2187-11-13T13:27:00Z",
+    "tags": [
+      "public-policy"
+    ],
+    "views": 2879,
+    "pinned": true
+  },
+  {
+    "id": "thread-025",
+    "title": "When the healer tells the whole team to drink water",
+    "board": "Memes",
+    "author": "u7",
+    "created": "2187-11-13T14:46:00Z",
+    "tags": [
+      "humor"
+    ],
+    "views": 2992,
+    "pinned": false
+  },
+  {
+    "id": "thread-026",
+    "title": "Quote reply keeps my entire paragraph. Is that good etiquette?",
+    "board": "Help Desk",
+    "author": "u28",
+    "created": "2187-11-13T16:05:00Z",
+    "tags": [
+      "site-help"
+    ],
+    "views": 3105,
+    "pinned": false
+  },
+  {
+    "id": "thread-027",
+    "title": "Freelance engineering offer: 6,800 MCR monthly equivalent, but no leave",
+    "board": "Housing & Money",
+    "author": "u22",
+    "created": "2187-11-13T17:24:00Z",
+    "tags": [
+      "budget",
+      "housing"
+    ],
+    "views": 3218,
+    "pinned": false
+  },
+  {
+    "id": "thread-028",
+    "title": "Grade V demo footage is not a shopping list",
+    "board": "Cyberware & Clinics",
+    "author": "u11",
+    "created": "2187-11-13T18:43:00Z",
+    "tags": [
+      "cyberware",
+      "care"
+    ],
+    "views": 3331,
+    "pinned": false
+  },
+  {
+    "id": "thread-029",
+    "title": "Recruitment posts should list who pays cancellation costs",
+    "board": "Raid Recruitment",
+    "author": "u13",
+    "created": "2187-11-13T20:02:00Z",
+    "tags": [
+      "work",
+      "contracts"
+    ],
+    "views": 3444,
+    "pinned": false
+  },
+  {
+    "id": "thread-030",
+    "title": "Training control without turning every session into a contest",
+    "board": "Hunter Talk",
+    "author": "u25",
+    "created": "2187-11-13T21:21:00Z",
+    "tags": [
+      "hunters",
+      "discussion"
+    ],
+    "views": 3557,
+    "pinned": false
+  },
+  {
+    "id": "thread-031",
+    "title": "Rain-proof book swap in Geneva?",
+    "board": "City Life",
+    "author": "u14",
+    "created": "2187-11-13T22:40:00Z",
+    "tags": [
+      "daily-life"
+    ],
+    "views": 3670,
+    "pinned": false
+  },
+  {
+    "id": "thread-032",
+    "title": "Why does killing the largest creature not close every Gate?",
+    "board": "Mana Tech",
+    "author": "u28",
+    "created": "2187-11-13T23:59:00Z",
+    "tags": [
+      "technology",
+      "questions"
+    ],
+    "views": 3783,
+    "pinned": false
+  },
+  {
+    "id": "thread-033",
+    "title": "Corporate disaster sponsorship: useful funding or too many logos?",
+    "board": "Politics",
+    "author": "u29",
+    "created": "2187-11-14T01:18:00Z",
+    "tags": [
+      "public-policy"
+    ],
+    "views": 3896,
+    "pinned": false
+  },
+  {
+    "id": "thread-034",
+    "title": "E-rank budget planner versus the price of one replacement boot",
+    "board": "Memes",
+    "author": "u17",
+    "created": "2187-11-14T02:37:00Z",
+    "tags": [
+      "humor"
+    ],
+    "views": 4009,
+    "pinned": false
+  },
+  {
+    "id": "thread-035",
+    "title": "How do I report a public profile correction?",
+    "board": "Help Desk",
+    "author": "u2",
+    "created": "2187-11-14T03:56:00Z",
+    "tags": [
+      "site-help"
+    ],
+    "views": 4122,
+    "pinned": false
+  },
+  {
+    "id": "thread-036",
+    "title": "Landlord here: how do I explain a lift repair without a wall of jargon?",
+    "board": "Housing & Money",
+    "author": "u27",
+    "created": "2187-11-14T05:15:00Z",
+    "tags": [
+      "budget",
+      "housing"
+    ],
+    "views": 4235,
+    "pinned": false
+  },
+  {
+    "id": "thread-037",
+    "title": "Clinic reminders should not display procedures on shared screens",
+    "board": "Cyberware & Clinics",
+    "author": "u5",
+    "created": "2187-11-14T06:34:00Z",
+    "tags": [
+      "cyberware",
+      "care"
+    ],
+    "views": 4348,
+    "pinned": false
+  },
+  {
+    "id": "thread-038",
+    "title": "Paid map annotation job: how much prior Gate experience is needed?",
+    "board": "Raid Recruitment",
+    "author": "u19",
+    "created": "2187-11-14T07:53:00Z",
+    "tags": [
+      "work",
+      "contracts"
+    ],
+    "views": 4461,
+    "pinned": false
+  },
+  {
+    "id": "thread-039",
+    "title": "Favorite unglamorous piece of raid support equipment?",
+    "board": "Hunter Talk",
+    "author": "u18",
+    "created": "2187-11-14T09:12:00Z",
+    "tags": [
+      "hunters",
+      "discussion"
+    ],
+    "views": 4574,
+    "pinned": false
+  },
+  {
+    "id": "thread-040",
+    "title": "Shanghai night market: can we agree on a queue direction?",
+    "board": "City Life",
+    "author": "u26",
+    "created": "2187-11-14T10:31:00Z",
+    "tags": [
+      "daily-life"
+    ],
+    "views": 4687,
+    "pinned": false
+  },
+  {
+    "id": "thread-041",
+    "title": "Public ecology pages should mention nonhostile species",
+    "board": "Mana Tech",
+    "author": "u21",
+    "created": "2187-11-14T11:50:00Z",
+    "tags": [
+      "technology",
+      "questions"
+    ],
+    "views": 4800,
+    "pinned": false
+  },
+  {
+    "id": "thread-042",
+    "title": "Licensing portability without pretending we have one global government",
+    "board": "Politics",
+    "author": "u13",
+    "created": "2187-11-14T13:09:00Z",
+    "tags": [
+      "public-policy"
+    ],
+    "views": 4913,
+    "pinned": false
+  },
+  {
+    "id": "thread-043",
+    "title": "My balcony basil has declared independence",
+    "board": "Memes",
+    "author": "u14",
+    "created": "2187-11-14T14:28:00Z",
+    "tags": [
+      "humor"
+    ],
+    "views": 5026,
+    "pinned": false
+  },
+  {
+    "id": "thread-044",
+    "title": "Are market ticker numbers live prices?",
+    "board": "Help Desk",
+    "author": "u16",
+    "created": "2187-11-14T15:47:00Z",
+    "tags": [
+      "site-help"
+    ],
+    "views": 5139,
+    "pinned": false
+  },
+  {
+    "id": "thread-045",
+    "title": "Deposit dispute over a wall-mounted charging bracket",
+    "board": "Housing & Money",
+    "author": "u20",
+    "created": "2187-11-14T17:06:00Z",
+    "tags": [
+      "budget",
+      "housing"
+    ],
+    "views": 5252,
+    "pinned": false
+  },
+  {
+    "id": "thread-046",
+    "title": "Used assistive optics listing has no service record",
+    "board": "Cyberware & Clinics",
+    "author": "u28",
+    "created": "2187-11-14T18:25:00Z",
+    "tags": [
+      "cyberware",
+      "care"
+    ],
+    "views": 5365,
+    "pinned": false
+  },
+  {
+    "id": "thread-047",
+    "title": "How do teams welcome a support Hunter on the first day?",
+    "board": "Raid Recruitment",
+    "author": "u17",
+    "created": "2187-11-14T19:44:00Z",
+    "tags": [
+      "work",
+      "contracts"
+    ],
+    "views": 5478,
+    "pinned": false
+  },
+  {
+    "id": "thread-048",
+    "title": "S-rank comparisons: can we compare tasks instead of imaginary scores?",
+    "board": "Hunter Talk",
+    "author": "u19",
+    "created": "2187-11-14T21:03:00Z",
+    "tags": [
+      "hunters",
+      "discussion"
+    ],
+    "views": 5591,
+    "pinned": false
+  },
+  {
+    "id": "thread-049",
+    "title": "Rotterdam harbor walk with a quiet place to sit?",
+    "board": "City Life",
+    "author": "u24",
+    "created": "2187-11-14T22:22:00Z",
+    "tags": [
+      "daily-life"
+    ],
+    "views": 5704,
+    "pinned": false
+  },
+  {
+    "id": "thread-050",
+    "title": "An old sensor manual is not evidence for a Gate origin theory",
+    "board": "Mana Tech",
+    "author": "u30",
+    "created": "2187-11-14T23:41:00Z",
+    "tags": [
+      "technology",
+      "questions"
+    ],
+    "views": 5817,
+    "pinned": false
+  },
+  {
+    "id": "thread-051",
+    "title": "Night-shift consultation hearings need night-shift access",
+    "board": "Politics",
+    "author": "u3",
+    "created": "2187-11-15T01:00:00Z",
+    "tags": [
+      "public-policy"
+    ],
+    "views": 5930,
+    "pinned": false
+  },
+  {
+    "id": "thread-052",
+    "title": "The recruitment form asks for five years of experience in a new tool",
+    "board": "Memes",
+    "author": "u22",
+    "created": "2187-11-15T02:19:00Z",
+    "tags": [
+      "humor"
+    ],
+    "views": 6043,
+    "pinned": false
+  },
+  {
+    "id": "thread-053",
+    "title": "Why does a forum reply not appear on my other device?",
+    "board": "Help Desk",
+    "author": "u29",
+    "created": "2187-11-15T03:38:00Z",
+    "tags": [
+      "site-help"
+    ],
+    "views": 6156,
+    "pinned": false
+  },
+  {
+    "id": "thread-054",
+    "title": "Technician salary 4,900 MCR: pension or training allowance?",
+    "board": "Housing & Money",
+    "author": "u11",
+    "created": "2187-11-15T04:57:00Z",
+    "tags": [
+      "budget",
+      "housing"
+    ],
+    "views": 6269,
+    "pinned": false
+  },
+  {
+    "id": "thread-055",
+    "title": "Quiet waiting areas make clinic visits easier",
+    "board": "Cyberware & Clinics",
+    "author": "u14",
+    "created": "2187-11-15T06:16:00Z",
+    "tags": [
+      "cyberware",
+      "care"
+    ],
+    "views": 6382,
+    "pinned": false
+  },
+  {
+    "id": "thread-056",
+    "title": "Equipment return checklist after a cancelled booking?",
+    "board": "Raid Recruitment",
+    "author": "u9",
+    "created": "2187-11-15T07:35:00Z",
+    "tags": [
+      "work",
+      "contracts"
+    ],
+    "views": 6495,
+    "pinned": false
+  },
+  {
+    "id": "thread-057",
+    "title": "Independent does not mean unemployed",
+    "board": "Hunter Talk",
+    "author": "u7",
+    "created": "2187-11-15T08:54:00Z",
+    "tags": [
+      "hunters",
+      "discussion"
+    ],
+    "views": 6608,
+    "pinned": false
+  },
+  {
+    "id": "thread-058",
+    "title": "Community hall needs ordinary volunteers, capes optional",
+    "board": "City Life",
+    "author": "u21",
+    "created": "2187-11-15T10:13:00Z",
+    "tags": [
+      "daily-life"
+    ],
+    "views": 6721,
+    "pinned": false
+  },
+  {
+    "id": "thread-059",
+    "title": "Student question: can capacity improve while control stays poor?",
+    "board": "Mana Tech",
+    "author": "u28",
+    "created": "2187-11-15T11:32:00Z",
+    "tags": [
+      "technology",
+      "questions"
+    ],
+    "views": 6834,
+    "pinned": false
+  },
+  {
+    "id": "thread-060",
+    "title": "Public data without publishing workers’ shift patterns",
+    "board": "Politics",
+    "author": "u2",
+    "created": "2187-11-15T12:51:00Z",
+    "tags": [
+      "public-policy"
+    ],
+    "views": 6947,
+    "pinned": false
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "PRESS-001",
+    "slug": "seo-yuna",
+    "name": "Dr. Seo Yuna",
+    "age": 46,
+    "nationality": "Korean",
+    "role": "CEO",
+    "affiliation": "Vespera Biotechnologies",
+    "city": "Seoul",
+    "publicSummary": "Biotechnology executive.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "DrSeoYuna",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "PRESS-002",
+    "slug": "evelyn-cross",
+    "name": "Evelyn Cross",
+    "age": 58,
+    "nationality": "American",
+    "role": "CEO",
+    "affiliation": "Orion Consolidated",
+    "city": "New York",
+    "publicSummary": "Financial strategist.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "EvelynCross",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "PRESS-003",
+    "slug": "akira-kurogane",
+    "name": "Akira Kurogane",
+    "age": 54,
+    "nationality": "Japanese",
+    "role": "CEO",
+    "affiliation": "Kurogane Systems",
+    "city": "Tokyo",
+    "publicSummary": "Engineering executive.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "AkiraKurogane",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "PRESS-004",
+    "slug": "catherine-brooks",
+    "name": "Catherine Brooks",
+    "age": 52,
+    "nationality": "American",
+    "role": "Administrator",
+    "affiliation": "USPDA",
+    "city": "Publicly unlisted",
+    "publicSummary": "Gate-related public safety and defense official.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "CatherineBrooks",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "PRESS-005",
+    "slug": "elise-moreau",
+    "name": "Elise Moreau",
+    "age": 48,
+    "nationality": "French",
+    "role": "Director",
+    "affiliation": "EGSD",
+    "city": "Publicly unlisted",
+    "publicSummary": "Security cooperation policymaker.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "EliseMoreau",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "PRESS-006",
+    "slug": "sofia-rahman",
+    "name": "Sofia Rahman",
+    "age": 55,
+    "nationality": "British South Asian",
+    "role": "Secretary-General",
+    "affiliation": "GHC",
+    "city": "Publicly unlisted",
+    "publicSummary": "Hunter standards and professional regulation official.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "SofiaRahman",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "PRESS-007",
+    "slug": "nabila-hassan",
+    "name": "Dr. Nabila Hassan",
+    "age": 50,
+    "nationality": "Egyptian",
+    "role": "Director",
+    "affiliation": "IGA",
+    "city": "Publicly unlisted",
+    "publicSummary": "Scientific expert on dimensional phenomena.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "DrNabilaHassan",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "PRESS-008",
+    "slug": "nadia-voss",
+    "name": "Nadia Voss",
+    "age": 39,
+    "nationality": "German",
+    "role": "Director",
+    "affiliation": "Meridian Exchange",
+    "city": "Singapore",
+    "publicSummary": "Information broker and contract negotiator.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "NadiaVoss",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "PRESS-009",
+    "slug": "mara-quill",
+    "name": "Mara Quill",
+    "age": 32,
+    "nationality": "Dutch",
+    "role": "Coordinator",
+    "affiliation": "Ghost Signal",
+    "city": "Rotterdam",
+    "publicSummary": "Cybersecurity specialist and technical coordinator.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "MaraQuill",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "PRESS-010",
+    "slug": "leila-haddad",
+    "name": "Leila Haddad",
+    "age": 29,
+    "nationality": "Lebanese",
+    "role": "Investigative journalist",
+    "affiliation": "Independent press",
+    "city": "Publicly unlisted",
+    "publicSummary": "Working journalist committed to evidence-based reporting.",
+    "visibility": "public",
+    "publicRecord": true,
+    "imageSlug": "LeilaHaddad",
+    "source": "Canon professional role",
+    "tags": [
+      "Professional profile"
+    ]
+  },
+  {
+    "id": "RUMOR-zhao-lian",
+    "slug": "zhao-lian",
+    "name": "Zhao Lian",
+    "role": "Unverified rumor reference",
+    "affiliation": "Unconfirmed",
+    "publicSummary": "Anonymous sources allege links between this name and Jade Serpent. The claim is unverified; no criminal role is established by this entry.",
+    "visibility": "rumor",
+    "publicRecord": false,
+    "imageSlug": "ZhaoLian",
+    "imageStatus": "Portrait is not evidence of alleged affiliation",
+    "source": null,
+    "tags": [
+      "UNVERIFIED",
+      "RUMOR"
+    ]
+  },
+  {
+    "id": "RUMOR-elias-vorn",
+    "slug": "elias-vorn",
+    "name": "Dr. Elias Vorn",
+    "role": "Unverified rumor reference",
+    "affiliation": "Unconfirmed",
+    "publicSummary": "Anonymous posts allege an association with Red Chrysalis. This is unverified and does not establish a research role, wrongdoing, or organizational leadership.",
+    "visibility": "rumor",
+    "publicRecord": false,
+    "imageSlug": "DrEliasVorn",
+    "imageStatus": "Portrait is not evidence of alleged affiliation",
+    "source": null,
+    "tags": [
+      "UNVERIFIED",
+      "RUMOR"
+    ]
+  },
+  {
+    "id": "RUMOR-madame-silk",
+    "slug": "madame-silk",
+    "name": "Madame Silk",
+    "role": "Unverified rumor reference",
+    "affiliation": "Unconfirmed",
+    "publicSummary": "The alias appears in unverified Silk Consortium rumors. Identity, age, appearance and Awakening status remain unconfirmed.",
+    "visibility": "rumor",
+    "publicRecord": false,
+    "imageSlug": null,
+    "imageStatus": "Image: unconfirmed",
+    "source": null,
+    "tags": [
+      "UNVERIFIED",
+      "RUMOR"
+    ]
+  }
+]

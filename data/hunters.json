@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "GHC-PUB-0001",
+    "slug": "seraphine-vale",
+    "name": "Seraphine Vale",
+    "age": 36,
+    "rank": "S",
+    "national": true,
+    "nationality": "French",
+    "city": "Publicly unlisted",
+    "affiliation": "Independent",
+    "specialization": "Mage",
+    "ability": "Sovereign Geometry",
+    "abilityDescription": "Spatial ability; public technical limits are not documented.",
+    "publicSummary": "Independent National-Level S-Rank Hunter.",
+    "license": "Public confirmation pending",
+    "operations": [],
+    "tags": [
+      "Mage",
+      "Canon public profile"
+    ],
+    "imageSlug": "SeraphineVale",
+    "publicRecord": true,
+    "mediaMentions": [],
+    "source": "Canon public role; licensing and operation details not supplied."
+  },
+  {
+    "id": "GHC-PUB-0002",
+    "slug": "yoon-se-ah",
+    "name": "Yoon Se-ah",
+    "age": 27,
+    "rank": "S",
+    "national": false,
+    "nationality": "Korean",
+    "city": "Publicly unlisted",
+    "affiliation": "Independent",
+    "specialization": "Fighter",
+    "ability": "Azure Current",
+    "abilityDescription": "Lightning dual-sword ability.",
+    "publicSummary": "Independent S-Rank Hunter.",
+    "license": "Public confirmation pending",
+    "operations": [],
+    "tags": [
+      "Fighter",
+      "Canon public profile"
+    ],
+    "imageSlug": "YoonSeah",
+    "publicRecord": true,
+    "mediaMentions": [],
+    "source": "Canon public role; licensing and operation details not supplied."
+  },
+  {
+    "id": "GHC-PUB-0003",
+    "slug": "kang-min-jae",
+    "name": "Kang Min-jae",
+    "age": 38,
+    "rank": "S",
+    "national": false,
+    "nationality": "Korean",
+    "city": "Seoul",
+    "affiliation": "Celestial Spear",
+    "specialization": "Fighter",
+    "ability": "Thunder Dominion",
+    "abilityDescription": "Lightning spear ability.",
+    "publicSummary": "S-Rank Hunter and Celestial Spear guild master.",
+    "license": "Public confirmation pending",
+    "operations": [],
+    "tags": [
+      "Fighter",
+      "Canon public profile"
+    ],
+    "imageSlug": "KangMinjae",
+    "publicRecord": true,
+    "mediaMentions": [],
+    "source": "Canon public role; licensing and operation details not supplied."
+  },
+  {
+    "id": "GHC-PUB-0004",
+    "slug": "amara-okafor",
+    "name": "Dr. Amara Okafor",
+    "age": 44,
+    "rank": "S",
+    "national": false,
+    "nationality": "Nigerian",
+    "city": "Geneva",
+    "affiliation": "Elysian Order",
+    "specialization": "Healer",
+    "ability": "Vital Restoration",
+    "abilityDescription": "Healing ability.",
+    "publicSummary": "S-Rank healer and Elysian Order leader.",
+    "license": "Public confirmation pending",
+    "operations": [],
+    "tags": [
+      "Healer",
+      "Canon public profile"
+    ],
+    "imageSlug": "DrAmaraOkafor",
+    "publicRecord": true,
+    "mediaMentions": [],
+    "source": "Canon public role; licensing and operation details not supplied."
+  },
+  {
+    "id": "GHC-PUB-0005",
+    "slug": "reina-tsukishiro",
+    "name": "Reina Tsukishiro",
+    "age": 35,
+    "rank": "A",
+    "national": false,
+    "nationality": "Japanese",
+    "city": "Tokyo",
+    "affiliation": "Phantom Veil",
+    "specialization": "Reconnaissance",
+    "ability": "Moonshadow Perception",
+    "abilityDescription": "Reconnaissance and perception ability.",
+    "publicSummary": "A-Rank reconnaissance Hunter and Phantom Veil leader.",
+    "license": "Public confirmation pending",
+    "operations": [],
+    "tags": [
+      "Reconnaissance",
+      "Canon public profile"
+    ],
+    "imageSlug": "ReinaTsukishiro",
+    "publicRecord": true,
+    "mediaMentions": [],
+    "source": "Canon public role; licensing and operation details not supplied."
+  },
+  {
+    "id": "GHC-PUB-0006",
+    "slug": "imani-adeyemi",
+    "name": "Imani Adeyemi",
+    "age": 36,
+    "rank": "B",
+    "national": false,
+    "nationality": "Nigerian",
+    "city": "Lagos",
+    "affiliation": "Ashfall Company",
+    "specialization": "Fighter",
+    "ability": "Kinetic reinforcement",
+    "abilityDescription": "Kinetic reinforcement ability.",
+    "publicSummary": "B-Rank Hunter and Ashfall Company captain.",
+    "license": "Public confirmation pending",
+    "operations": [],
+    "tags": [
+      "Fighter",
+      "Canon public profile"
+    ],
+    "imageSlug": "ImaniAdeyemi",
+    "publicRecord": true,
+    "mediaMentions": [],
+    "source": "Canon public role; licensing and operation details not supplied."
+  },
+  {
+    "id": "GHC-PUB-0007",
+    "slug": "ji-won-lim",
+    "name": "Ji-won Lim",
+    "rank": "C",
+    "national": false,
+    "nationality": "Korean",
+    "city": "Seoul",
+    "affiliation": "Celestial Spear",
+    "specialization": "Support",
+    "ability": "Signal Thread",
+    "abilityDescription": "Routes short-range warning pulses among consenting teammates.",
+    "publicSummary": "Seoul-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Survey relay checks",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine survey relay checks; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0008",
+    "slug": "daniel-cho",
+    "name": "Daniel Cho",
+    "rank": "D",
+    "national": false,
+    "nationality": "Korean",
+    "city": "Seoul",
+    "affiliation": "Independent",
+    "specialization": "Tank",
+    "ability": "Brace",
+    "abilityDescription": "Briefly reinforces stance against moderate impacts.",
+    "publicSummary": "Seoul-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Equipment-lane escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine equipment-lane escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0009",
+    "slug": "mina-baek",
+    "name": "Mina Baek",
+    "rank": "E",
+    "national": false,
+    "nationality": "Korean",
+    "city": "Seoul",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Warm Palm",
+    "abilityDescription": "Provides modest localized warmth for field equipment.",
+    "publicSummary": "Seoul-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Cold-storage inspection",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine cold-storage inspection; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0010",
+    "slug": "tariq-mensah",
+    "name": "Tariq Mensah",
+    "rank": "C",
+    "national": false,
+    "nationality": "Ghanaian",
+    "city": "Lagos",
+    "affiliation": "Ashfall Company",
+    "specialization": "Fighter",
+    "ability": "Steady Lift",
+    "abilityDescription": "Reinforces controlled lifting movements.",
+    "publicSummary": "Lagos-based fighter accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Supply recovery",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine supply recovery; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Fighter",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0011",
+    "slug": "aiko-mori",
+    "name": "Aiko Mori",
+    "rank": "B",
+    "national": false,
+    "nationality": "Japanese",
+    "city": "Tokyo",
+    "affiliation": "Phantom Veil",
+    "specialization": "Reconnaissance",
+    "ability": "Echo Trace",
+    "abilityDescription": "Reads nearby movement through short-lived surface vibrations.",
+    "publicSummary": "Tokyo-based reconnaissance accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Perimeter mapping",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine perimeter mapping; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Reconnaissance",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0012",
+    "slug": "ren-sato",
+    "name": "Ren Sato",
+    "rank": "D",
+    "national": false,
+    "nationality": "Japanese",
+    "city": "Tokyo",
+    "affiliation": "Independent",
+    "specialization": "Fighter",
+    "ability": "Edge Guard",
+    "abilityDescription": "Reinforces a held practice blade for brief intervals.",
+    "publicSummary": "Tokyo-based fighter accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Training-ground safety support",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine training-ground safety support; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Fighter",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0013",
+    "slug": "chika-abe",
+    "name": "Chika Abe",
+    "rank": "C",
+    "national": false,
+    "nationality": "Japanese",
+    "city": "Tokyo",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Quiet Field",
+    "abilityDescription": "Dampens incidental sound within a small working area.",
+    "publicSummary": "Tokyo-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Sensor calibration escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine sensor calibration escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0014",
+    "slug": "kenji-ota",
+    "name": "Kenji Ota",
+    "rank": "E",
+    "national": false,
+    "nationality": "Japanese",
+    "city": "Tokyo",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Marker Glow",
+    "abilityDescription": "Creates small temporary luminous markers.",
+    "publicSummary": "Tokyo-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Route-marker maintenance",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine route-marker maintenance; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0015",
+    "slug": "linh-tran",
+    "name": "Linh Tran",
+    "rank": "B",
+    "national": false,
+    "nationality": "Vietnamese",
+    "city": "Singapore",
+    "affiliation": "Free Horizon",
+    "specialization": "Mage",
+    "ability": "Crosswind",
+    "abilityDescription": "Redirects limited bursts of local airflow.",
+    "publicSummary": "Singapore-based mage accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Weather-sensor placement",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine weather-sensor placement; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Mage",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0016",
+    "slug": "arjun-nair",
+    "name": "Arjun Nair",
+    "rank": "C",
+    "national": false,
+    "nationality": "Indian",
+    "city": "Singapore",
+    "affiliation": "Free Horizon",
+    "specialization": "Tank",
+    "ability": "Anchor Step",
+    "abilityDescription": "Improves stability on uneven terrain.",
+    "publicSummary": "Singapore-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Survey-team escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine survey-team escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0017",
+    "slug": "mei-tan",
+    "name": "Mei Tan",
+    "rank": "D",
+    "national": false,
+    "nationality": "Singaporean",
+    "city": "Singapore",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Clear Tone",
+    "abilityDescription": "Projects a short distinct audible signal.",
+    "publicSummary": "Singapore-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Evacuation-drill support",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine evacuation-drill support; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0018",
+    "slug": "farah-ismail",
+    "name": "Farah Ismail",
+    "rank": "E",
+    "national": false,
+    "nationality": "Malaysian",
+    "city": "Singapore",
+    "affiliation": "Independent",
+    "specialization": "Reconnaissance",
+    "ability": "Nearlight",
+    "abilityDescription": "Improves perception in dim nearby spaces.",
+    "publicSummary": "Singapore-based reconnaissance accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Warehouse inspection escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine warehouse inspection escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Reconnaissance",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0019",
+    "slug": "luc-martin",
+    "name": "Luc Martin",
+    "rank": "C",
+    "national": false,
+    "nationality": "French",
+    "city": "Geneva",
+    "affiliation": "Elysian Order",
+    "specialization": "Healer",
+    "ability": "Gentle Mend",
+    "abilityDescription": "Supports treatment of minor wounds within trained clinical practice.",
+    "publicSummary": "Geneva-based healer accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Field-clinic support",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine field-clinic support; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Healer",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0020",
+    "slug": "adele-laurent",
+    "name": "Adele Laurent",
+    "rank": "B",
+    "national": false,
+    "nationality": "French",
+    "city": "Geneva",
+    "affiliation": "Elysian Order",
+    "specialization": "Support",
+    "ability": "Still Air",
+    "abilityDescription": "Stabilizes a small patch of moving air.",
+    "publicSummary": "Geneva-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Medical-tent setup",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine medical-tent setup; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0021",
+    "slug": "elena-rossi",
+    "name": "Elena Rossi",
+    "rank": "D",
+    "national": false,
+    "nationality": "Italian",
+    "city": "Geneva",
+    "affiliation": "Elysian Order",
+    "specialization": "Healer",
+    "ability": "Cool Touch",
+    "abilityDescription": "Provides limited cooling during supervised care.",
+    "publicSummary": "Geneva-based healer accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "First-aid exercise",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine first-aid exercise; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Healer",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0022",
+    "slug": "omar-khalil",
+    "name": "Omar Khalil",
+    "rank": "C",
+    "national": false,
+    "nationality": "Egyptian",
+    "city": "Geneva",
+    "affiliation": "Independent",
+    "specialization": "Tank",
+    "ability": "Shelter Brace",
+    "abilityDescription": "Reinforces a carried protective shield briefly.",
+    "publicSummary": "Geneva-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Clinic-access escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine clinic-access escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0023",
+    "slug": "greta-weber",
+    "name": "Greta Weber",
+    "rank": "B",
+    "national": false,
+    "nationality": "German",
+    "city": "Berlin",
+    "affiliation": "Independent",
+    "specialization": "Tank",
+    "ability": "Load Share",
+    "abilityDescription": "Distributes moderate impact across reinforced equipment.",
+    "publicSummary": "Berlin-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Barrier inspection",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine barrier inspection; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0024",
+    "slug": "jonas-becker",
+    "name": "Jonas Becker",
+    "rank": "D",
+    "national": false,
+    "nationality": "German",
+    "city": "Berlin",
+    "affiliation": "Independent",
+    "specialization": "Fighter",
+    "ability": "Grip Lock",
+    "abilityDescription": "Strengthens grip for short controlled tasks.",
+    "publicSummary": "Berlin-based fighter accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Debris-handling exercise",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine debris-handling exercise; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Fighter",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0025",
+    "slug": "nora-schulte",
+    "name": "Nora Schulte",
+    "rank": "E",
+    "national": false,
+    "nationality": "German",
+    "city": "Berlin",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Compass Spark",
+    "abilityDescription": "Produces a stable visible orientation marker.",
+    "publicSummary": "Berlin-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Wayfinding drill",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine wayfinding drill; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0026",
+    "slug": "pavel-novak",
+    "name": "Pavel Novak",
+    "rank": "C",
+    "national": false,
+    "nationality": "Czech",
+    "city": "Prague",
+    "affiliation": "Independent",
+    "specialization": "Fighter",
+    "ability": "Short Surge",
+    "abilityDescription": "Briefly reinforces a single controlled movement.",
+    "publicSummary": "Prague-based fighter accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Secure cargo escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine secure cargo escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Fighter",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0027",
+    "slug": "eva-dvorak",
+    "name": "Eva Dvorak",
+    "rank": "D",
+    "national": false,
+    "nationality": "Czech",
+    "city": "Prague",
+    "affiliation": "Independent",
+    "specialization": "Reconnaissance",
+    "ability": "Dust Read",
+    "abilityDescription": "Notices recent disturbance in nearby loose surfaces.",
+    "publicSummary": "Prague-based reconnaissance accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Access-route survey",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine access-route survey; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Reconnaissance",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0028",
+    "slug": "sanne-de-vries",
+    "name": "Sanne de Vries",
+    "rank": "C",
+    "national": false,
+    "nationality": "Dutch",
+    "city": "Rotterdam",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Float Assist",
+    "abilityDescription": "Reduces the effective weight of a small held object briefly.",
+    "publicSummary": "Rotterdam-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Dockside supply handling",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine dockside supply handling; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0029",
+    "slug": "bram-vos",
+    "name": "Bram Vos",
+    "rank": "E",
+    "national": false,
+    "nationality": "Dutch",
+    "city": "Rotterdam",
+    "affiliation": "Independent",
+    "specialization": "Tank",
+    "ability": "Firm Foot",
+    "abilityDescription": "Improves footing on wet surfaces.",
+    "publicSummary": "Rotterdam-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Quayside safety patrol",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine quayside safety patrol; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0030",
+    "slug": "noor-bakker",
+    "name": "Noor Bakker",
+    "rank": "B",
+    "national": false,
+    "nationality": "Dutch",
+    "city": "Rotterdam",
+    "affiliation": "Independent",
+    "specialization": "Reconnaissance",
+    "ability": "Range Sense",
+    "abilityDescription": "Estimates nearby open-space dimensions without instruments.",
+    "publicSummary": "Rotterdam-based reconnaissance accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Warehouse clearance survey",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine warehouse clearance survey; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Reconnaissance",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0031",
+    "slug": "grace-bennett",
+    "name": "Grace Bennett",
+    "rank": "B",
+    "national": false,
+    "nationality": "American",
+    "city": "Chicago",
+    "affiliation": "Iron Dominion",
+    "specialization": "Tank",
+    "ability": "Bulwark",
+    "abilityDescription": "Reinforces a defensive stance for short intervals.",
+    "publicSummary": "Chicago-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Barrier rotation",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine barrier rotation; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0032",
+    "slug": "luis-ortega",
+    "name": "Luis Ortega",
+    "rank": "C",
+    "national": false,
+    "nationality": "American",
+    "city": "Chicago",
+    "affiliation": "Iron Dominion",
+    "specialization": "Fighter",
+    "ability": "Pulse Drive",
+    "abilityDescription": "Adds controlled force to close-range strikes.",
+    "publicSummary": "Chicago-based fighter accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Equipment field exercise",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine equipment field exercise; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Fighter",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0033",
+    "slug": "maya-reed",
+    "name": "Maya Reed",
+    "rank": "D",
+    "national": false,
+    "nationality": "American",
+    "city": "Chicago",
+    "affiliation": "Iron Dominion",
+    "specialization": "Support",
+    "ability": "Flare Dot",
+    "abilityDescription": "Places a small luminous temporary point marker.",
+    "publicSummary": "Chicago-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Night-drill support",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine night-drill support; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0034",
+    "slug": "henry-wallace",
+    "name": "Henry Wallace",
+    "rank": "E",
+    "national": false,
+    "nationality": "American",
+    "city": "New York",
+    "affiliation": "Independent",
+    "specialization": "Reconnaissance",
+    "ability": "Fine Sight",
+    "abilityDescription": "Improves close-range visual detail recognition.",
+    "publicSummary": "New York-based reconnaissance accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Cargo seal inspection",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine cargo seal inspection; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Reconnaissance",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0035",
+    "slug": "camila-santos",
+    "name": "Camila Santos",
+    "rank": "C",
+    "national": false,
+    "nationality": "Brazilian",
+    "city": "New York",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Tether Sense",
+    "abilityDescription": "Tracks tension in a held safety line.",
+    "publicSummary": "New York-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Evacuation-route exercise",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine evacuation-route exercise; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0036",
+    "slug": "wei-lin",
+    "name": "Wei Lin",
+    "rank": "B",
+    "national": false,
+    "nationality": "Chinese",
+    "city": "Shanghai",
+    "affiliation": "Independent",
+    "specialization": "Mage",
+    "ability": "Stone Fold",
+    "abilityDescription": "Moves small amounts of loose mineral material.",
+    "publicSummary": "Shanghai-based mage accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Sample recovery escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine sample recovery escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Mage",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0037",
+    "slug": "xia-chen",
+    "name": "Xia Chen",
+    "rank": "D",
+    "national": false,
+    "nationality": "Chinese",
+    "city": "Shanghai",
+    "affiliation": "Independent",
+    "specialization": "Tank",
+    "ability": "Palm Shield",
+    "abilityDescription": "Forms a brief small protective surface.",
+    "publicSummary": "Shanghai-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Industrial access escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine industrial access escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0038",
+    "slug": "jun-huang",
+    "name": "Jun Huang",
+    "rank": "E",
+    "national": false,
+    "nationality": "Chinese",
+    "city": "Shanghai",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Dry Touch",
+    "abilityDescription": "Removes small quantities of surface moisture.",
+    "publicSummary": "Shanghai-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Field-sample preparation",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine field-sample preparation; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0039",
+    "slug": "bisi-akinola",
+    "name": "Bisi Akinola",
+    "rank": "B",
+    "national": false,
+    "nationality": "Nigerian",
+    "city": "Lagos",
+    "affiliation": "Elysian Order",
+    "specialization": "Healer",
+    "ability": "Restorative Pulse",
+    "abilityDescription": "Supports supervised wound care with limited healing pulses.",
+    "publicSummary": "Lagos-based healer accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Mobile-clinic rotation",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine mobile-clinic rotation; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Healer",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0040",
+    "slug": "chidi-eze",
+    "name": "Chidi Eze",
+    "rank": "D",
+    "national": false,
+    "nationality": "Nigerian",
+    "city": "Lagos",
+    "affiliation": "Ashfall Company",
+    "specialization": "Tank",
+    "ability": "Shoulder Brace",
+    "abilityDescription": "Reinforces posture while carrying a modest load.",
+    "publicSummary": "Lagos-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Recovery-team support",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine recovery-team support; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0041",
+    "slug": "zainab-bello",
+    "name": "Zainab Bello",
+    "rank": "C",
+    "national": false,
+    "nationality": "Nigerian",
+    "city": "Lagos",
+    "affiliation": "Ashfall Company",
+    "specialization": "Reconnaissance",
+    "ability": "Path Sense",
+    "abilityDescription": "Detects nearby changes in ground stability.",
+    "publicSummary": "Lagos-based reconnaissance accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Access-path inspection",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine access-path inspection; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Reconnaissance",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0042",
+    "slug": "kojo-asare",
+    "name": "Kojo Asare",
+    "rank": "D",
+    "national": false,
+    "nationality": "Ghanaian",
+    "city": "Accra",
+    "affiliation": "Independent",
+    "specialization": "Fighter",
+    "ability": "Measured Force",
+    "abilityDescription": "Reinforces precise short movements.",
+    "publicSummary": "Accra-based fighter accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Equipment delivery escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine equipment delivery escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Fighter",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0043",
+    "slug": "amina-diallo",
+    "name": "Amina Diallo",
+    "rank": "C",
+    "national": false,
+    "nationality": "Senegalese",
+    "city": "Dakar",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Water Thread",
+    "abilityDescription": "Guides small quantities of clean water at close range.",
+    "publicSummary": "Dakar-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Field-station maintenance",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine field-station maintenance; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0044",
+    "slug": "ravi-patel",
+    "name": "Ravi Patel",
+    "rank": "B",
+    "national": false,
+    "nationality": "Indian",
+    "city": "Mumbai",
+    "affiliation": "Independent",
+    "specialization": "Tank",
+    "ability": "Counterweight",
+    "abilityDescription": "Helps stabilize a carried load for brief periods.",
+    "publicSummary": "Mumbai-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Dock evacuation exercise",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine dock evacuation exercise; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0045",
+    "slug": "priya-shah",
+    "name": "Priya Shah",
+    "rank": "D",
+    "national": false,
+    "nationality": "Indian",
+    "city": "Mumbai",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Bright Stitch",
+    "abilityDescription": "Places temporary light traces along nearby surfaces.",
+    "publicSummary": "Mumbai-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Route-light inspection",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine route-light inspection; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0046",
+    "slug": "siti-pranata",
+    "name": "Siti Pranata",
+    "rank": "C",
+    "national": false,
+    "nationality": "Indonesian",
+    "city": "Jakarta",
+    "affiliation": "Independent",
+    "specialization": "Mage",
+    "ability": "Mist Coil",
+    "abilityDescription": "Condenses a limited local mist.",
+    "publicSummary": "Jakarta-based mage accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Environmental sampling escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine environmental sampling escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Mage",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0047",
+    "slug": "an-nguyen",
+    "name": "An Nguyen",
+    "rank": "E",
+    "national": false,
+    "nationality": "Vietnamese",
+    "city": "Hanoi",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Clear Mark",
+    "abilityDescription": "Leaves a short-lived visible Mana mark.",
+    "publicSummary": "Hanoi-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Survey stake checks",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine survey stake checks; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0048",
+    "slug": "mateo-ruiz",
+    "name": "Mateo Ruiz",
+    "rank": "B",
+    "national": false,
+    "nationality": "Mexican",
+    "city": "Mexico City",
+    "affiliation": "Independent",
+    "specialization": "Fighter",
+    "ability": "Arc Step",
+    "abilityDescription": "Improves control during brief lateral movement.",
+    "publicSummary": "Mexico City-based fighter accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Training-site patrol",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine training-site patrol; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Fighter",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0049",
+    "slug": "valentina-cruz",
+    "name": "Valentina Cruz",
+    "rank": "D",
+    "national": false,
+    "nationality": "Mexican",
+    "city": "Mexico City",
+    "affiliation": "Independent",
+    "specialization": "Healer",
+    "ability": "Soft Mend",
+    "abilityDescription": "Supports minor wound care under field protocols.",
+    "publicSummary": "Mexico City-based healer accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Community drill first aid",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine community drill first aid; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Healer",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0050",
+    "slug": "sofia-almeida",
+    "name": "Sofia Almeida",
+    "rank": "C",
+    "national": false,
+    "nationality": "Portuguese",
+    "city": "Lisbon",
+    "affiliation": "Independent",
+    "specialization": "Reconnaissance",
+    "ability": "Horizon Line",
+    "abilityDescription": "Improves estimation of nearby slope changes.",
+    "publicSummary": "Lisbon-based reconnaissance accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Coastal access survey",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine coastal access survey; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Reconnaissance",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0051",
+    "slug": "ines-garcia",
+    "name": "Ines Garcia",
+    "rank": "E",
+    "national": false,
+    "nationality": "Spanish",
+    "city": "Madrid",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Steady Flame",
+    "abilityDescription": "Maintains a tiny controlled flame.",
+    "publicSummary": "Madrid-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Field-stove safety demonstration",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine field-stove safety demonstration; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0052",
+    "slug": "owen-price",
+    "name": "Owen Price",
+    "rank": "C",
+    "national": false,
+    "nationality": "British",
+    "city": "London",
+    "affiliation": "Independent",
+    "specialization": "Tank",
+    "ability": "Holdfast",
+    "abilityDescription": "Reinforces a stationary defensive position.",
+    "publicSummary": "London-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Public barrier drill",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine public barrier drill; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0053",
+    "slug": "zara-ahmed",
+    "name": "Zara Ahmed",
+    "rank": "B",
+    "national": false,
+    "nationality": "British",
+    "city": "London",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Resonance Link",
+    "abilityDescription": "Coordinates simple timed signals among consenting teammates.",
+    "publicSummary": "London-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Communications exercise",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine communications exercise; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0054",
+    "slug": "laila-mansour",
+    "name": "Laila Mansour",
+    "rank": "D",
+    "national": false,
+    "nationality": "Egyptian",
+    "city": "Cairo",
+    "affiliation": "Independent",
+    "specialization": "Reconnaissance",
+    "ability": "Heat Edge",
+    "abilityDescription": "Detects coarse nearby temperature differences.",
+    "publicSummary": "Cairo-based reconnaissance accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Equipment heat survey",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine equipment heat survey; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Reconnaissance",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0055",
+    "slug": "youssef-farouk",
+    "name": "Youssef Farouk",
+    "rank": "C",
+    "national": false,
+    "nationality": "Egyptian",
+    "city": "Cairo",
+    "affiliation": "Independent",
+    "specialization": "Mage",
+    "ability": "Sand Ribbon",
+    "abilityDescription": "Moves a narrow stream of loose sand.",
+    "publicSummary": "Cairo-based mage accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Sample enclosure maintenance",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine sample enclosure maintenance; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Mage",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0056",
+    "slug": "derya-kaya",
+    "name": "Derya Kaya",
+    "rank": "E",
+    "national": false,
+    "nationality": "Turkish",
+    "city": "Istanbul",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Latch Sense",
+    "abilityDescription": "Senses whether a nearby mechanical latch is under tension.",
+    "publicSummary": "Istanbul-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Supply-lock inspection",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine supply-lock inspection; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0057",
+    "slug": "emre-demir",
+    "name": "Emre Demir",
+    "rank": "B",
+    "national": false,
+    "nationality": "Turkish",
+    "city": "Istanbul",
+    "affiliation": "Independent",
+    "specialization": "Fighter",
+    "ability": "Iron Rhythm",
+    "abilityDescription": "Reinforces repeated controlled movements.",
+    "publicSummary": "Istanbul-based fighter accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Training-facility escort",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine training-facility escort; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Fighter",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0058",
+    "slug": "ana-kovac",
+    "name": "Ana Kovac",
+    "rank": "D",
+    "national": false,
+    "nationality": "Croatian",
+    "city": "Zagreb",
+    "affiliation": "Independent",
+    "specialization": "Tank",
+    "ability": "Ground Hold",
+    "abilityDescription": "Improves stability during moderate impacts.",
+    "publicSummary": "Zagreb-based tank accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Temporary barrier setup",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine temporary barrier setup; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Tank",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0059",
+    "slug": "tomas-silva",
+    "name": "Tomas Silva",
+    "rank": "C",
+    "national": false,
+    "nationality": "Brazilian",
+    "city": "Sao Paulo",
+    "affiliation": "Independent",
+    "specialization": "Summoner",
+    "ability": "Scout Wisp",
+    "abilityDescription": "Summons a short-lived simple light wisp for nearby scouting.",
+    "publicSummary": "Sao Paulo-based summoner accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Survey corridor checks",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine survey corridor checks; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Summoner",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0060",
+    "slug": "lucia-costa",
+    "name": "Lucia Costa",
+    "rank": "E",
+    "national": false,
+    "nationality": "Argentinian",
+    "city": "Buenos Aires",
+    "affiliation": "Independent",
+    "specialization": "Support",
+    "ability": "Dry Spark",
+    "abilityDescription": "Produces a tiny controlled electrical spark.",
+    "publicSummary": "Buenos Aires-based support accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Field-tool testing",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine field-tool testing; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Support",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  },
+  {
+    "id": "GHC-PUB-0061",
+    "slug": "nia-campbell",
+    "name": "Nia Campbell",
+    "rank": "B",
+    "national": false,
+    "nationality": "Canadian",
+    "city": "Toronto",
+    "affiliation": "Independent",
+    "specialization": "Healer",
+    "ability": "Measured Recovery",
+    "abilityDescription": "Provides limited healing support alongside conventional care.",
+    "publicSummary": "Toronto-based healer accepting routine professional assignments. This is an illustrative registry record.",
+    "license": "Active",
+    "operations": [
+      {
+        "title": "Aid-station exercise",
+        "date": "2187-11-12",
+        "status": "Illustrative routine assignment",
+        "illustrative": true,
+        "summary": "Routine aid-station exercise; no major incident or canon event implied."
+      }
+    ],
+    "tags": [
+      "Healer",
+      "Illustrative registry entry"
+    ],
+    "publicRecord": true,
+    "mediaMentions": []
+  }
+]

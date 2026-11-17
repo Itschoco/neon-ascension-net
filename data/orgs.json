@@ -1,0 +1,591 @@
+[
+  {
+    "id": "ORG-001",
+    "slug": "celestial-spear",
+    "name": "Celestial Spear",
+    "type": "guild",
+    "headquarters": "Seoul",
+    "hq": "Seoul",
+    "leader": "Kang Min-jae",
+    "leaderSlug": "kang-min-jae",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Elite combat and dangerous Gate raids.",
+    "description": "Elite combat and dangerous Gate raids.",
+    "publicRecord": true,
+    "tags": [
+      "guild"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-001",
+        "title": "Field logistics coordinator",
+        "location": "Seoul",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-002",
+    "slug": "iron-dominion",
+    "name": "Iron Dominion",
+    "type": "guild",
+    "headquarters": "Chicago",
+    "hq": "Chicago",
+    "leader": null,
+    "leaderSlug": null,
+    "leaderStatus": "Publicly unlisted",
+    "publicSummary": "Military-style organization focused on discipline and heavy combat.",
+    "description": "Military-style organization focused on discipline and heavy combat.",
+    "publicRecord": true,
+    "tags": [
+      "guild"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-002",
+        "title": "Equipment maintenance technician",
+        "location": "Chicago",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-003",
+    "slug": "elysian-order",
+    "name": "Elysian Order",
+    "type": "guild",
+    "headquarters": "Geneva",
+    "hq": "Geneva",
+    "leader": "Dr. Amara Okafor",
+    "leaderSlug": "amara-okafor",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Healing, medical support, humanitarian relief and disaster response.",
+    "description": "Healing, medical support, humanitarian relief and disaster response.",
+    "publicRecord": true,
+    "tags": [
+      "guild"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-003",
+        "title": "Clinic scheduling administrator",
+        "location": "Geneva",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-004",
+    "slug": "phantom-veil",
+    "name": "Phantom Veil",
+    "type": "guild",
+    "headquarters": "Tokyo",
+    "hq": "Tokyo",
+    "leader": "Reina Tsukishiro",
+    "leaderSlug": "reina-tsukishiro",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Reconnaissance, intelligence, stealth operations and information gathering.",
+    "description": "Reconnaissance, intelligence, stealth operations and information gathering.",
+    "publicRecord": true,
+    "tags": [
+      "guild"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-004",
+        "title": "Survey records assistant",
+        "location": "Tokyo",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-005",
+    "slug": "free-horizon",
+    "name": "Free Horizon",
+    "type": "guild",
+    "headquarters": "Singapore",
+    "hq": "Singapore",
+    "leader": null,
+    "leaderSlug": null,
+    "leaderStatus": "Publicly unlisted",
+    "publicSummary": "Independent Hunter rights, freedom of operation and unconventional expedition strategies.",
+    "description": "Independent Hunter rights, freedom of operation and unconventional expedition strategies.",
+    "publicRecord": true,
+    "tags": [
+      "guild"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-005",
+        "title": "Expedition contract administrator",
+        "location": "Singapore",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-006",
+    "slug": "helix-dynamics",
+    "name": "Helix Dynamics",
+    "type": "corporation",
+    "headquarters": "Shanghai",
+    "hq": "Shanghai",
+    "leader": null,
+    "leaderSlug": null,
+    "leaderStatus": "Publicly unlisted",
+    "publicSummary": "Mana energy, industrial conversion systems and large-scale infrastructure.",
+    "description": "Mana energy, industrial conversion systems and large-scale infrastructure.",
+    "publicRecord": true,
+    "tags": [
+      "corporation"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-006",
+        "title": "Conversion systems technician",
+        "location": "Shanghai",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-007",
+    "slug": "kurogane-systems",
+    "name": "Kurogane Systems",
+    "type": "corporation",
+    "headquarters": "Tokyo",
+    "hq": "Tokyo",
+    "leader": "Akira Kurogane",
+    "leaderSlug": "akira-kurogane",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Cyberware, robotics, advanced prosthetics and military augmentation.",
+    "description": "Cyberware, robotics, advanced prosthetics and military augmentation.",
+    "publicRecord": true,
+    "tags": [
+      "corporation"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-007",
+        "title": "Prosthetics service engineer",
+        "location": "Tokyo",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-008",
+    "slug": "vespera-biotechnologies",
+    "name": "Vespera Biotechnologies",
+    "type": "corporation",
+    "headquarters": "Seoul",
+    "hq": "Seoul",
+    "leader": "Dr. Seo Yuna",
+    "leaderSlug": "seo-yuna",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Biotechnology, Mana medicine, regenerative treatments and biological enhancement.",
+    "description": "Biotechnology, Mana medicine, regenerative treatments and biological enhancement.",
+    "publicRecord": true,
+    "tags": [
+      "corporation"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-008",
+        "title": "Laboratory quality technician",
+        "location": "Seoul",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-009",
+    "slug": "orion-consolidated",
+    "name": "Orion Consolidated",
+    "type": "corporation",
+    "headquarters": "New York",
+    "hq": "New York",
+    "leader": "Evelyn Cross",
+    "leaderSlug": "evelyn-cross",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Banking, insurance, investment, corporate finance and resource markets.",
+    "description": "Banking, insurance, investment, corporate finance and resource markets.",
+    "publicRecord": true,
+    "tags": [
+      "corporation"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-009",
+        "title": "Claims review associate",
+        "location": "New York",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-010",
+    "slug": "nexus-information-systems",
+    "name": "Nexus Information Systems",
+    "type": "corporation",
+    "headquarters": "Singapore",
+    "hq": "Singapore",
+    "leader": null,
+    "leaderSlug": null,
+    "leaderStatus": "Publicly unlisted",
+    "publicSummary": "AI, information infrastructure, data analytics and communication networks.",
+    "description": "AI, information infrastructure, data analytics and communication networks.",
+    "publicRecord": true,
+    "tags": [
+      "corporation"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-010",
+        "title": "Network operations technician",
+        "location": "Singapore",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-011",
+    "slug": "aegis-international",
+    "name": "Aegis International",
+    "type": "corporation",
+    "headquarters": "Berlin",
+    "hq": "Berlin",
+    "leader": null,
+    "leaderSlug": null,
+    "leaderStatus": "Publicly unlisted",
+    "publicSummary": "Private defense, tactical systems, security contracts and disaster-response technology.",
+    "description": "Private defense, tactical systems, security contracts and disaster-response technology.",
+    "publicRecord": true,
+    "tags": [
+      "corporation"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-011",
+        "title": "Response equipment engineer",
+        "location": "Berlin",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-012",
+    "slug": "black-vector",
+    "name": "Black Vector",
+    "type": "mercenary",
+    "headquarters": "Prague",
+    "hq": "Prague",
+    "leader": null,
+    "leaderSlug": null,
+    "leaderStatus": "Publicly unlisted",
+    "publicSummary": "Military-oriented operations and high-risk armed contracts.",
+    "description": "Military-oriented operations and high-risk armed contracts.",
+    "publicRecord": true,
+    "tags": [
+      "mercenary"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-012",
+        "title": "Contract compliance administrator",
+        "location": "Prague",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-013",
+    "slug": "meridian-exchange",
+    "name": "Meridian Exchange",
+    "type": "mercenary",
+    "headquarters": "Singapore",
+    "hq": "Singapore",
+    "leader": "Nadia Voss",
+    "leaderSlug": "nadia-voss",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Information brokerage, contract negotiation, mercenary recruitment and commercial intelligence.",
+    "description": "Information brokerage, contract negotiation, mercenary recruitment and commercial intelligence.",
+    "publicRecord": true,
+    "tags": [
+      "mercenary"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-013",
+        "title": "Contract intake assistant",
+        "location": "Singapore",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-014",
+    "slug": "ashfall-company",
+    "name": "Ashfall Company",
+    "type": "mercenary",
+    "headquarters": "Lagos",
+    "hq": "Lagos",
+    "leader": "Imani Adeyemi",
+    "leaderSlug": "imani-adeyemi",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Dangerous rescue operations, recovery and contracted security.",
+    "description": "Dangerous rescue operations, recovery and contracted security.",
+    "publicRecord": true,
+    "tags": [
+      "mercenary"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-014",
+        "title": "Recovery logistics dispatcher",
+        "location": "Lagos",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-015",
+    "slug": "ghost-signal",
+    "name": "Ghost Signal",
+    "type": "mercenary",
+    "headquarters": "Rotterdam",
+    "hq": "Rotterdam",
+    "leader": "Mara Quill",
+    "leaderSlug": "mara-quill",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Cybersecurity, network infiltration, digital intelligence and technical reconnaissance.",
+    "description": "Cybersecurity, network infiltration, digital intelligence and technical reconnaissance.",
+    "publicRecord": true,
+    "tags": [
+      "mercenary"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-015",
+        "title": "Authorized security testing analyst",
+        "location": "Rotterdam",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-016",
+    "slug": "iga",
+    "name": "IGA",
+    "type": "regulator",
+    "headquarters": "Publicly unlisted",
+    "hq": "Publicly unlisted",
+    "leader": "Dr. Nabila Hassan",
+    "leaderSlug": "nabila-hassan",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "International Gate Authority: research and coordination of Gate monitoring and dimensional safety.",
+    "description": "International Gate Authority: research and coordination of Gate monitoring and dimensional safety.",
+    "publicRecord": true,
+    "tags": [
+      "regulator"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-016",
+        "title": "Dimensional data technician",
+        "location": "Location to be confirmed",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-017",
+    "slug": "ghc",
+    "name": "GHC",
+    "type": "regulator",
+    "headquarters": "Publicly unlisted",
+    "hq": "Publicly unlisted",
+    "leader": "Sofia Rahman",
+    "leaderSlug": "sofia-rahman",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "Global Hunter Commission: Hunter ranking standards, professional regulation and licensing frameworks.",
+    "description": "Global Hunter Commission: Hunter ranking standards, professional regulation and licensing frameworks.",
+    "publicRecord": true,
+    "tags": [
+      "regulator"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-017",
+        "title": "Licensing records clerk",
+        "location": "Location to be confirmed",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-018",
+    "slug": "uspda",
+    "name": "USPDA",
+    "type": "regulator",
+    "headquarters": "Publicly unlisted",
+    "hq": "Publicly unlisted",
+    "leader": "Catherine Brooks",
+    "leaderSlug": "catherine-brooks",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "United States organization responsible for Gate-related public safety and defense.",
+    "description": "United States organization responsible for Gate-related public safety and defense.",
+    "publicRecord": true,
+    "tags": [
+      "regulator"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-018",
+        "title": "Public safety scheduling officer",
+        "location": "Location to be confirmed",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  },
+  {
+    "id": "ORG-019",
+    "slug": "egsd",
+    "name": "EGSD",
+    "type": "regulator",
+    "headquarters": "Publicly unlisted",
+    "hq": "Publicly unlisted",
+    "leader": "Elise Moreau",
+    "leaderSlug": "elise-moreau",
+    "leaderStatus": "Publicly listed",
+    "publicSummary": "European security cooperation organization.",
+    "description": "European security cooperation organization.",
+    "publicRecord": true,
+    "tags": [
+      "regulator"
+    ],
+    "jobs": [
+      {
+        "id": "JOB-019",
+        "title": "Policy research assistant",
+        "location": "Location to be confirmed",
+        "status": "Illustrative listing",
+        "illustrative": true,
+        "date": "2187-11-17",
+        "summary": "Fictional routine vacancy for this site demonstration. No actual recruitment or application processing.",
+        "salary": "By contract; public pay band not supplied"
+      }
+    ],
+    "recruitmentPost": "Illustrative recruitment notice: review role requirements, compensation, insurance, supervision and contract terms before accepting any assignment.",
+    "recentNews": []
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "u1",
+    "handle": "hana_fixes_things",
+    "name": "Hana Park",
+    "flair": "Verified Engineer",
+    "city": "Seoul",
+    "joined": "2184-01-12",
+    "reputation": 82,
+    "bio": "24-year-old electrical engineer. Usually looking for the missing maintenance log.",
+    "badges": [
+      "Verified Engineer"
+    ]
+  },
+  {
+    "id": "u2",
+    "handle": "leila_reports",
+    "name": "Leila Haddad",
+    "flair": "Reporter",
+    "city": "Seoul",
+    "joined": "2185-02-12",
+    "reputation": 119,
+    "bio": "Working journalist. Documents before conclusions; corrections welcome.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u3",
+    "handle": "last_train_dan",
+    "name": "Dan Cho",
+    "flair": "Gig Worker",
+    "city": "Seoul",
+    "joined": "2186-03-12",
+    "reputation": 156,
+    "bio": "Delivery shifts, late trains, very strong opinions about lift access.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u4",
+    "handle": "c_rank_coffee",
+    "name": "Mina Song",
+    "flair": "Verified C-Rank",
+    "city": "Seoul",
+    "joined": "2184-04-12",
+    "reputation": 193,
+    "bio": "Support Hunter. I read the cancellation clause before the mission brief.",
+    "badges": [
+      "Verified C-Rank"
+    ]
+  },
+  {
+    "id": "u5",
+    "handle": "nurse_nia",
+    "name": "Nia Mensah",
+    "flair": "Clinic Nurse",
+    "city": "Geneva",
+    "joined": "2185-05-12",
+    "reputation": 230,
+    "bio": "Elysian clinic nurse. General fictional-world discussion, no diagnoses by forum.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u6",
+    "handle": "rent_is_a_boss",
+    "name": "Luis Vega",
+    "flair": "Tenant",
+    "city": "New York",
+    "joined": "2186-06-12",
+    "reputation": 267,
+    "bio": "Ordinary apartment. Extraordinary paperwork.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u7",
+    "handle": "blue_current_fan",
+    "name": "Ari Kim",
+    "flair": "Hunter Fan",
+    "city": "Seoul",
+    "joined": "2184-07-12",
+    "reputation": 304,
+    "bio": "Azure Current enthusiast. My predictions are predictions, not insider information.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u8",
+    "handle": "packet_miso",
+    "name": "Miso Tanaka",
+    "flair": "Network Technician",
+    "city": "Tokyo",
+    "joined": "2185-08-12",
+    "reputation": 341,
+    "bio": "Networks, noodle shops, and a healthy distrust of default passwords.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u9",
+    "handle": "dockside_jo",
+    "name": "Jo van Dijk",
+    "flair": "Logistics",
+    "city": "Rotterdam",
+    "joined": "2186-01-12",
+    "reputation": 378,
+    "bio": "Port scheduler. The cargo is late but the coffee is punctual.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u10",
+    "handle": "lagos_lunch",
+    "name": "Tomi Adebayo",
+    "flair": "Civilian",
+    "city": "Lagos",
+    "joined": "2184-02-12",
+    "reputation": 415,
+    "bio": "Lunch recommendations and neighborhood repair days.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u11",
+    "handle": "torque_wrench",
+    "name": "Emi Sato",
+    "flair": "Prosthetics Technician",
+    "city": "Tokyo",
+    "joined": "2185-03-12",
+    "reputation": 452,
+    "bio": "Workshop technician. Bring the service record, please.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u12",
+    "handle": "anonymous_delta",
+    "name": "Anonymous Delta",
+    "flair": "Anon",
+    "city": "Undisclosed",
+    "joined": "2186-04-12",
+    "reputation": 489,
+    "bio": "Anonymous account. Claims need evidence, including mine.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u13",
+    "handle": "paper_shield",
+    "name": "Ravi Menon",
+    "flair": "Contract Administrator",
+    "city": "Singapore",
+    "joined": "2184-05-12",
+    "reputation": 526,
+    "bio": "Contract administrator. I love a defined term and hate an empty schedule.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u14",
+    "handle": "balcony_basil",
+    "name": "Salma Farouk",
+    "flair": "Gardener",
+    "city": "Geneva",
+    "joined": "2185-06-12",
+    "reputation": 563,
+    "bio": "Small balcony, unreasonable ambitions for basil.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u15",
+    "handle": "nightbus_88",
+    "name": "Petra Novak",
+    "flair": "Transit Worker",
+    "city": "Berlin",
+    "joined": "2186-07-12",
+    "reputation": 600,
+    "bio": "Night buses and the humans who miss them.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u16",
+    "handle": "ledger_lan",
+    "name": "Lan Wu",
+    "flair": "Bookkeeper",
+    "city": "Shanghai",
+    "joined": "2184-08-12",
+    "reputation": 637,
+    "bio": "Budgets, invoices, and never a guaranteed investment return.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u17",
+    "handle": "rookie_ren",
+    "name": "Ren Ito",
+    "flair": "Verified E-Rank",
+    "city": "Tokyo",
+    "joined": "2185-01-12",
+    "reputation": 674,
+    "bio": "New licensed Hunter. Asking before trying.",
+    "badges": [
+      "Verified E-Rank"
+    ]
+  },
+  {
+    "id": "u18",
+    "handle": "tank_no_thanks",
+    "name": "Gideon Reed",
+    "flair": "Verified B-Rank",
+    "city": "Chicago",
+    "joined": "2186-02-12",
+    "reputation": 711,
+    "bio": "Tank specialist. My shield has a maintenance budget.",
+    "badges": [
+      "Verified B-Rank"
+    ]
+  },
+  {
+    "id": "u19",
+    "handle": "puddle_theory",
+    "name": "Isha Rao",
+    "flair": "Research Student",
+    "city": "Singapore",
+    "joined": "2184-03-12",
+    "reputation": 748,
+    "bio": "Studying environmental monitoring. Unknown is a useful answer.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u20",
+    "handle": "flatpack_fury",
+    "name": "Owen Price",
+    "flair": "Civilian",
+    "city": "London",
+    "joined": "2185-04-12",
+    "reputation": 785,
+    "bio": "Assembling furniture, slowly becoming furniture.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u21",
+    "handle": "window_seat",
+    "name": "Camille Laurent",
+    "flair": "Teacher",
+    "city": "Paris",
+    "joined": "2186-05-12",
+    "reputation": 822,
+    "bio": "Teacher and habitual museum visitor.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u22",
+    "handle": "quiet_invoice",
+    "name": "Ada Weber",
+    "flair": "Engineer",
+    "city": "Berlin",
+    "joined": "2184-06-12",
+    "reputation": 859,
+    "bio": "Industrial controls engineer. Opinions here are my own.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u23",
+    "handle": "secondhand_sun",
+    "name": "Binta Diallo",
+    "flair": "Repair Volunteer",
+    "city": "Lagos",
+    "joined": "2185-07-12",
+    "reputation": 896,
+    "bio": "Repair cafe volunteer. Every screw deserves a labelled jar.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u24",
+    "handle": "mcr_meltdown",
+    "name": "Finn Walsh",
+    "flair": "Service Worker",
+    "city": "Rotterdam",
+    "joined": "2186-08-12",
+    "reputation": 933,
+    "bio": "Cafe shifts and rent spreadsheets.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u25",
+    "handle": "safe_return",
+    "name": "Sora Lim",
+    "flair": "Verified D-Rank",
+    "city": "Seoul",
+    "joined": "2184-01-12",
+    "reputation": 970,
+    "bio": "Reconnaissance trainee. A return plan is part of the plan.",
+    "badges": [
+      "Verified D-Rank"
+    ]
+  },
+  {
+    "id": "u26",
+    "handle": "soup_protocol",
+    "name": "Mei Chen",
+    "flair": "Food Stall Owner",
+    "city": "Shanghai",
+    "joined": "2185-02-12",
+    "reputation": 1007,
+    "bio": "Soup first. Debate later.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u27",
+    "handle": "floor_14",
+    "name": "Dennis Park",
+    "flair": "Landlord",
+    "city": "Seoul",
+    "joined": "2186-03-12",
+    "reputation": 1044,
+    "bio": "One small building, several large repair bills.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u28",
+    "handle": "bean_counter_7",
+    "name": "Noura Saleh",
+    "flair": "Student",
+    "city": "Cairo",
+    "joined": "2184-04-12",
+    "reputation": 1081,
+    "bio": "Student budget, borrowed library access, many questions.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u29",
+    "handle": "raincheck_rue",
+    "name": "Rue Bennett",
+    "flair": "Event Worker",
+    "city": "New York",
+    "joined": "2185-05-12",
+    "reputation": 1118,
+    "bio": "Ticketing, accessibility, and making the queue move.",
+    "badges": [
+      "Community Member"
+    ]
+  },
+  {
+    "id": "u30",
+    "handle": "old_manual",
+    "name": "Hector Ruiz",
+    "flair": "Retired Technician",
+    "city": "Madrid",
+    "joined": "2186-06-12",
+    "reputation": 1155,
+    "bio": "The manual is old. The isolation switch still matters.",
+    "badges": [
+      "Community Member"
+    ]
+  }
+]

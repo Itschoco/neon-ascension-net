@@ -1,0 +1,124 @@
+{
+  "title": "NULL NODE",
+  "classification": "UNVERIFIED // RUMOR",
+  "intro": "Anonymous claims, incomplete files, and deliberate misinformation may coexist here. Clearance switches are a local fiction, not authentication or verification.",
+  "files": [
+    {
+      "id": "null-index",
+      "path": "rumors/index.log",
+      "title": "A folder is not a source",
+      "classification": "UNVERIFIED // RUMOR",
+      "locked": false,
+      "body": [
+        "This node collects claims about a fragmented Underworld. There is no verified supreme organization coordinating every criminal faction.",
+        "Anonymous handles, apparent timestamps, and impressive encryption do not establish authenticity. Do not identify private people from resemblance or publish personal information."
+      ]
+    },
+    {
+      "id": "null-silk",
+      "path": "silk/appearance.enc",
+      "title": "The face that keeps changing",
+      "classification": "UNVERIFIED // RUMOR",
+      "locked": true,
+      "body": [
+        "Anonymous accounts attribute several incompatible portraits to Madame Silk. Her true appearance, identity, and Awakening status remain unknown. No portrait is presented as confirmed here.",
+        "A claimed connection between a Singapore contracting message and the Silk Consortium has no authenticated provenance. Similar wording is not proof of common authorship."
+      ]
+    },
+    {
+      "id": "null-zhao",
+      "path": "rumors/jade_invoice.log",
+      "title": "The invoice with the missing page",
+      "classification": "UNVERIFIED // RUMOR",
+      "locked": false,
+      "body": [
+        "An anonymous poster alleges that a redacted freight invoice links Zhao Lian to a resource shipment. Neither the invoice nor the alleged link has been authenticated.",
+        "The visible copy has no verifiable chain of custody and omits its payment schedule. Ordinary freight delays are not evidence of smuggling."
+      ]
+    },
+    {
+      "id": "null-vorn",
+      "path": "red_chrysalis/research.enc",
+      "title": "A research label copied too many times",
+      "classification": "UNVERIFIED // RUMOR",
+      "locked": true,
+      "body": [
+        "A purported research index alleges a connection to Dr. Elias Vorn and Red Chrysalis. It is a claim within an unverified file, not a confirmed account of experiments or participants.",
+        "The node withholds supposed participant names and any procedural content. No claim here establishes that artificial Awakening has been achieved."
+      ]
+    },
+    {
+      "id": "null-choir",
+      "path": "null_choir.log",
+      "title": "Everyone claims to be the choir",
+      "classification": "UNVERIFIED // RUMOR",
+      "locked": false,
+      "body": [
+        "Three anonymous handles claim responsibility for the same fictional network interruption. None supplies independently verifiable evidence.",
+        "Claims that NULL CHOIR has one supreme leader are unsupported. A shared signature can be copied; attribution remains uncertain."
+      ]
+    },
+    {
+      "id": "null-leaks",
+      "path": "leaks.enc",
+      "title": "Unopened archive, absent provenance",
+      "classification": "UNVERIFIED // RUMOR",
+      "locked": true,
+      "body": [
+        "A filename claims to contain commercial correspondence. The node cannot authenticate the sender, the contents, or the date.",
+        "The local clearance display merely reveals this editorial note. It does not decrypt an actual archive or authorize access to any outside system."
+      ]
+    },
+    {
+      "id": "null-oni",
+      "path": "rumors/aftermarket.log",
+      "title": "A too-cheap interface and a very long story",
+      "classification": "UNVERIFIED // RUMOR",
+      "locked": false,
+      "body": [
+        "A seller allegedly invoked the Oni Syndicate to frighten a customer. The claim, affiliation, and product history are unverified.",
+        "An absent service record is a compatibility and consumer-protection concern regardless of the story attached to it. This node does not offer purchasing instructions or contacts."
+      ]
+    },
+    {
+      "id": "null-origin",
+      "path": "rumors/anchor_theory.log",
+      "title": "Unknown still means unknown",
+      "classification": "UNVERIFIED // RUMOR",
+      "locked": false,
+      "body": [
+        "An anonymous theory says irregular Gate readings prove a designed universal System. The material presented does not support that conclusion.",
+        "The origin of Gates remains unknown. Instrument noise, a striking diagram, and speculation do not amount to a confirmed explanation."
+      ]
+    }
+  ],
+  "rumors": [
+    {
+      "id": "rumor-01",
+      "author": "anonymous_delta",
+      "title": "Does a reused contract phrase prove a Silk connection?",
+      "classification": "UNVERIFIED // RUMOR",
+      "body": [
+        "It proves the phrase was reused. Anything beyond that needs authenticated records. Please stop adding private names to the screenshot."
+      ]
+    },
+    {
+      "id": "rumor-02",
+      "author": "lost_packet",
+      "title": "The supposed Zhao shipment list has two different dates",
+      "classification": "UNVERIFIED // RUMOR",
+      "body": [
+        "One could be a copy date, an edit, or fabrication. The discrepancy makes the alleged connection less certain, not more exciting."
+      ]
+    },
+    {
+      "id": "rumor-03",
+      "author": "margin_note",
+      "title": "No evidence of a breakthrough in the alleged Vorn index",
+      "classification": "UNVERIFIED // RUMOR",
+      "body": [
+        "An anonymous table of contents cannot establish a scientific result. No private subjects or health details should be posted here."
+      ]
+    }
+  ]
+}
