@@ -35,3 +35,5 @@ Gate Watch uses self-hosted Leaflet and Leaflet.markercluster (BSD/MIT licenses 
 ## Background music
 
 The user-supplied MP3 is served locally as assets/audio/you-cant-run-from-me.mp3 (3,749,136 bytes, 128 kbps, approximately 3:54). The original supplied file is untouched. Audio requests autoplay on entry, loops, and remains mounted across in-site navigation. The persistent player has Play/Pause, volume and seeking. Browser policy may require one explicit Play click. There is no Spotify SDK, remote music request, account or API key.
+
+When audible autoplay is blocked, the first ordinary click/tap or keypress retries playback automatically. Once playback has started, these listeners are removed so a later manual pause is respected.
