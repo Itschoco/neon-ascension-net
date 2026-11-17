@@ -24,4 +24,4 @@ Enter `/null` in search, or click the interrupted-channel advertisement three ti
 
 Repository: `Itschoco/neon-ascension-net`. GitHub Pages serves branch `main`, root `/`. No build step or paid service is required.
 
-Chakra Petch is distributed under the SIL Open Font License; see `assets/ChakraPetch-OFL.txt`. Guild crests are the user's approved Route B assets. No reference-site branding or music is copied.
+Inter, JetBrains Mono and Chakra Petch are distributed under the SIL Open Font License; see `assets/ChakraPetch-OFL.txt`. Guild crests are the user's approved Route B assets. No reference-site branding or music is copied.
