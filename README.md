@@ -34,4 +34,4 @@ Gate Watch uses self-hosted Leaflet and Leaflet.markercluster (BSD/MIT licenses 
 
 ## Background music
 
-The optional, collapsible Spotify embed plays the user-selected track `098z6VSAmmxyts3ogCGPfr` through Spotify. It loads on opening and uses the official Spotify iFrame API to request automatic playback. Browsers or Spotify may require a user click or restrict playback to a preview. A visible Play/Pause button remains available; the player stays mounted across in-site route changes. Spotify controls available playback; audio is never downloaded or rehosted.
+The user-supplied MP3 is served locally as assets/audio/you-cant-run-from-me.mp3 (3,749,136 bytes, 128 kbps, approximately 3:54). The original supplied file is untouched. Audio requests autoplay on entry, loops, and remains mounted across in-site navigation. The persistent player has Play/Pause, volume and seeking. Browser policy may require one explicit Play click. There is no Spotify SDK, remote music request, account or API key.
