@@ -9,7 +9,7 @@ const clock=document.getElementById('music-time');
 const format=s=>Math.floor((s||0)/60)+':'+String(Math.floor((s||0)%60)).padStart(2,'0');
 function message(text){if(status.textContent!==text)status.textContent=text;}
 function show(open){panel.hidden=!open;toggle.setAttribute('aria-expanded',String(open));}
-function update(){const active=!audio.paused;play.textContent=active?'Pause music':'Play music';play.setAttribute('aria-label',active?'Pause background music':'Play background music');toggle.querySelector('span').textContent=active?'Music · playing':'Music';}
+function update(){const active=!audio.paused;play.textContent=active?'Pause music':'Play music';play.setAttribute('aria-label',play.textContent);toggle.querySelector('span').textContent=active?'Music · playing':'Music';}
 function setVolume(value){audio.volume=Math.max(0,Math.min(1,(Number.isFinite(value)?value:25)/100));volume.value=String(Math.round(audio.volume*100));document.getElementById('volume-value').textContent=volume.value+'%';}
 try{const saved=localStorage.getItem('neonnet-music-volume');setVolume(saved===null?25:Number(saved));}catch{setVolume(25);}
 async function start(){try{await audio.play();message('Playing · loops while you browse.');}catch(error){message(error.name==='NotAllowedError'?'Your browser requires a click. Press Play music.':'Audio could not start. Press Play music to retry.');update();}}
