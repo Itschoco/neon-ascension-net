@@ -31,3 +31,7 @@ Inter, JetBrains Mono and Chakra Petch are distributed under the SIL Open Font L
 Reader extras include all 20 approved character cards, with no expression gallery. Unverified depictions do not establish public identities; Madame Silk’s image remains unconfirmed.
 
 Gate Watch uses self-hosted Leaflet and Leaflet.markercluster (BSD/MIT licenses in assets/leaflet), plus public-domain Natural Earth country geometry and populated-place coordinates. City markers are approximate centres, not invented precise Gate coordinates. Regional clusters zoom into separate city clusters; city popups link to incident reports. There are no paid map tiles or API keys.
+
+## Background music
+
+The optional, collapsible Spotify embed plays the user-selected track `098z6VSAmmxyts3ogCGPfr` through Spotify. It loads only when opened, requires the listener to press Play, and stays mounted across in-site route changes. Spotify controls available playback; audio is never downloaded or rehosted.
