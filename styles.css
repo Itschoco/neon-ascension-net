@@ -14,3 +14,5 @@
 #music-play{margin-top:12px;width:100%;min-height:40px}#music-status{color:#c9efe7;min-height:18px}.music-dock iframe{display:block;border:0!important;border-radius:10px!important;min-width:280px}#spotify-mount{min-height:152px}
 
 #background-audio{display:none}.volume-control,.seek-control{display:block;margin-top:14px;font-size:11px;color:#c3d6e8}.volume-control>span,.seek-control>span{display:block;margin-bottom:4px}.volume-control input,.seek-control input{width:100%;padding:0;border:0;accent-color:#8deade;min-height:25px}.volume-control output{float:right;color:#9af4df}.seek-control>span{font:10px JetBrains,monospace}
+
+.signal-hint{display:block;margin-top:10px;color:#d4c2ff;font-size:12px}.signal-footer{color:#cbb4ed!important;border-bottom:1px dashed #82709d;padding-bottom:3px}.signal-footer:hover{color:#f1e5ff!important}.signal-discovery{display:block;margin:20px 0;padding:23px;background:linear-gradient(130deg,#27233c,#102b36);border:1px dashed #a18ac7;border-radius:5px}.signal-discovery h2{font-size:24px}.signal-discovery p{margin:0;color:#c5e4e6}

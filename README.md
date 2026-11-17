@@ -18,7 +18,7 @@ Registered images load from `https://itschoco.github.io/neon-assets/`. Kissing e
 
 ## NULL NODE
 
-Enter `/null` in search, or click the interrupted-channel advertisement three times. Connection and clearance are fictional local interface states. Terminal commands only navigate predefined files; they cannot execute code.
+Enter `/null`, `null` or `null node` in search, click the unlisted-frequency advertisement once, or follow the static link in the footer. Searching for static, unlisted, offline or signal lost reveals a discovery card; missing-record pages also offer a static clue. Connection and clearance are fictional local interface states. Terminal commands only navigate predefined files; they cannot execute code.
 
 ## Deployment
 
